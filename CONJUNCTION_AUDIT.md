@@ -24,6 +24,45 @@ illustrative bands — not a rigorous calculation — used only to show the
 
 ---
 
+## A base-rate benchmark for name-similarity claims generally
+
+Before weighing any specific phonetic-resemblance claim (Liahona/Lahontan,
+Lehonti/Lahontan, or any future one), it's worth having an actual measured
+base rate from the text itself, rather than judging each claim in
+isolation. Ran `namesim.py` pairwise across all 378 distinctive Book of
+Mormon proper nouns (71,253 pairs) extracted via `onomasticon_match`.
+
+**Finding: incidental phonetic overlap between demonstrably unrelated BoM
+entities is common, not rare.** Multiple pairs with zero narrative
+connection score higher than 0.85–0.94: Messiah/Mosiah (0.927, a title vs.
+a king's name), Melek/Mulek (0.936, a city vs. a person), Amaleki/Amulek
+(0.930, two unconnected characters), Sidom/Sodom (0.936, a BoM city vs. the
+biblical one). This is what a large invented name-vocabulary drawing on a
+limited phonetic palette (recurring roots like "am-," "-oni," "-ihah")
+produces by default.
+
+**A useful positive control: Moroni/Moronihah** (a confirmed father-son
+pair, explicitly stated in the text) scores **0.547**. This gives a rough
+benchmark for what a *real*, textually-confirmed instance of intentional
+name-reuse looks like in this scoring scheme.
+
+**Checked against that benchmark: Lehonti/Liahona scores 0.263** — ranked
+1,208th of 71,253 pairs, well below the Moroni/Moronihah benchmark and
+below over a thousand other pairs in the text, most of which (per the
+examples above) are coincidental. This is why the "Lahonti" spelling claim
+was withdrawn above as a category error rather than just discounted — it
+doesn't just lack a stated textual connection, it's also a weaker match
+than the text's own standard for what real name-reuse looks like.
+
+**Recommendation**: any future name-pair claim (Book of Mormon internal, or
+against an external source) should be checked against this same benchmark
+— does it clear the ~0.55 confirmed-relationship bar, or does it sit in the
+0.85+ range of demonstrably-coincidental pairs, or somewhere in between? A
+bare "these sound alike" observation isn't evidence on its own in a text
+this large; where it lands relative to both anchors is.
+
+---
+
 ## Chain A: Lahontan's text → the name/concept "Liahona" (direct route)
 
 | # | Required link | Status | Rough confidence |
