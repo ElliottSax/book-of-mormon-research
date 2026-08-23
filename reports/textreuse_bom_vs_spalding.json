@@ -1,0 +1,66 @@
+{
+  "texts": [
+    "book_of_mormon",
+    "spalding_manuscript"
+  ],
+  "n": 6,
+  "jaccard_similarity": 4.5207226698096455e-05,
+  "top_overlaps": [
+    [
+      "on the other side of the",
+      6.988999315078067e-06
+    ],
+    [
+      "the other side of the river",
+      6.988999315078067e-06
+    ],
+    [
+      "should fall into the hands of",
+      6.988999315078067e-06
+    ],
+    [
+      "church of jesus christ of latter",
+      3.4944996575390336e-06
+    ],
+    [
+      "was covered with the bodies of",
+      3.4944996575390336e-06
+    ],
+    [
+      "great was the joy of the",
+      3.4944996575390336e-06
+    ],
+    [
+      "on both sides of the river",
+      3.4944996575390336e-06
+    ],
+    [
+      "be for the benefit of the",
+      3.4944996575390336e-06
+    ],
+    [
+      "of the book of mormon this",
+      3.4944996575390336e-06
+    ],
+    [
+      "jesus christ of latter day saints",
+      3.4944996575390336e-06
+    ],
+    [
+      "of jesus christ of latter day",
+      3.4944996575390336e-06
+    ],
+    [
+      "in the cause of their country",
+      3.4944996575390336e-06
+    ],
+    [
+      "from the right to the left",
+      3.4944996575390336e-06
+    ],
+    [
+      "who was the eldest son of",
+      3.4944996575390336e-06
+    ]
+  ]
+}

@@ -1,0 +1,2128 @@
+{
+  "schema_version": 2,
+  "book_of_mormon_vs_spalding_manuscript": {
+    "texts": [
+      "book_of_mormon",
+      "spalding_manuscript"
+    ],
+    "cosine_similarity": 0.8204215353301929,
+    "profiles": {
+      "book_of_mormon": {
+        "total_words": 286169,
+        "unique_words": 6004,
+        "ttr": 0.020980609360203236,
+        "hapax": 1861,
+        "hapax_ratio": 0.006503150236398771,
+        "avg_word_len": 4.045515062777589,
+        "function_word_ratio": 0.46350932490940666,
+        "emodern_density": 0.04909686234358019,
+        "liahona_terms": {
+          "pointers": 1,
+          "ball": 10,
+          "compass": 7,
+          "liahona": 1,
+          "director": 3
+        }
+      },
+      "spalding_manuscript": {
+        "total_words": 42564,
+        "unique_words": 6388,
+        "ttr": 0.15007987971055353,
+        "hapax": 3293,
+        "hapax_ratio": 0.07736584907433512,
+        "avg_word_len": 4.650338314068227,
+        "function_word_ratio": 0.4155389531059111,
+        "emodern_density": 0.0023963913166055823,
+        "liahona_terms": {
+          "pointers": 0,
+          "ball": 0,
+          "compass": 0,
+          "liahona": 0,
+          "director": 0
+        }
+      }
+    },
+    "distinctive_a_over_b": [
+      {
+        "word": "yea",
+        "rate_a": 0.004361059374006269,
+        "rate_b": 0.0
+      },
+      {
+        "word": "lamanites",
+        "rate_a": 0.00243911814347466,
+        "rate_b": 0.0
+      },
+      {
+        "word": "nephi",
+        "rate_a": 0.002208485195810867,
+        "rate_b": 0.0
+      },
+      {
+        "word": "brethren",
+        "rate_a": 0.0019149523533296758,
+        "rate_b": 0.0
+      },
+      {
+        "word": "wherefore",
+        "rate_a": 0.0014641697738049895,
+        "rate_b": 0.0
+      },
+      {
+        "word": "nephites",
+        "rate_a": 0.001299931159559561,
+        "rate_b": 0.0
+      },
+      {
+        "word": "alma",
+        "rate_a": 0.0011252092295112328,
+        "rate_b": 0.0
+      },
+      {
+        "word": "exceedingly",
+        "rate_a": 0.000933015106458072,
+        "rate_b": 0.0
+      },
+      {
+        "word": "brought",
+        "rate_a": 0.0008980707204484064,
+        "rate_b": 0.0
+      },
+      {
+        "word": "chapter",
+        "rate_a": 0.0008176986326261755,
+        "rate_b": 0.0
+      },
+      {
+        "word": "moroni",
+        "rate_a": 0.0007932375624194095,
+        "rate_b": 0.0
+      },
+      {
+        "word": "25",
+        "rate_a": 0.000789743123818443,
+        "rate_b": 0.0
+      },
+      {
+        "word": "israel",
+        "rate_a": 0.0007408209834049111,
+        "rate_b": 0.0
+      },
+      {
+        "word": "commandments",
+        "rate_a": 0.0007303376676020114,
+        "rate_b": 0.0
+      },
+      {
+        "word": "repent",
+        "rate_a": 0.0007163599131981451,
+        "rate_b": 0.0
+      },
+      {
+        "word": "insomuch",
+        "rate_a": 0.0006324933867749477,
+        "rate_b": 0.0
+      },
+      {
+        "word": "nevertheless",
+        "rate_a": 0.000622010070972048,
+        "rate_b": 0.0
+      },
+      {
+        "word": "ammon",
+        "rate_a": 0.0006045378779672151,
+        "rate_b": 0.0
+      },
+      {
+        "word": "spake",
+        "rate_a": 0.0005940545621643155,
+        "rate_b": 0.0
+      },
+      {
+        "word": "jerusalem",
+        "rate_a": 0.0005730879305585161,
+        "rate_b": 0.0
+      },
+      {
+        "word": "plates",
+        "rate_a": 0.0005381435445488505,
+        "rate_b": 0.0
+      },
+      {
+        "word": "thereof",
+        "rate_a": 0.0005206713515440177,
+        "rate_b": 0.0
+      },
+      {
+        "word": "zarahemla",
+        "rate_a": 0.0005171769129430512,
+        "rate_b": 0.0
+      },
+      {
+        "word": "gentiles",
+        "rate_a": 0.0004927158427362852,
+        "rate_b": 0.0
+      },
+      {
+        "word": "iniquity",
+        "rate_a": 0.00047174921113048586,
+        "rate_b": 0.0
+      },
+      {
+        "word": "record",
+        "rate_a": 0.0004682547725295193,
+        "rate_b": 0.0
+      },
+      {
+        "word": "lehi",
+        "rate_a": 0.0004507825795246865,
+        "rate_b": 0.0
+      },
+      {
+        "word": "doth",
+        "rate_a": 0.0004472881409237199,
+        "rate_b": 0.0
+      },
+      {
+        "word": "cometh",
+        "rate_a": 0.00044379370232275334,
+        "rate_b": 0.0
+      },
+      {
+        "word": "judgment",
+        "rate_a": 0.00040535487771212116,
+        "rate_b": 0.0
+      },
+      {
+        "word": "through",
+        "rate_a": 0.00040535487771212116,
+        "rate_b": 0.0
+      },
+      {
+        "word": "mosiah",
+        "rate_a": 0.0003948715619092215,
+        "rate_b": 0.0
+      },
+      {
+        "word": "tree",
+        "rate_a": 0.00039137712330825493,
+        "rate_b": 0.0
+      },
+      {
+        "word": "jacob",
+        "rate_a": 0.0003808938075053552,
+        "rate_b": 0.0
+      },
+      {
+        "word": "righteousness",
+        "rate_a": 0.00035992717589955584,
+        "rate_b": 0.0
+      },
+      {
+        "word": "gathered",
+        "rate_a": 0.00035293829869762275,
+        "rate_b": 0.0
+      },
+      {
+        "word": "vineyard",
+        "rate_a": 0.00035293829869762275,
+        "rate_b": 0.0
+      },
+      {
+        "word": "helaman",
+        "rate_a": 0.0003459494214956896,
+        "rate_b": 0.0
+      },
+      {
+        "word": "devil",
+        "rate_a": 0.0003459494214956896,
+        "rate_b": 0.0
+      },
+      {
+        "word": "repentance",
+        "rate_a": 0.0003459494214956896,
+        "rate_b": 0.0
+      },
+      {
+        "word": "gutenberg",
+        "rate_a": 0.00034245498289472303,
+        "rate_b": 0.0
+      },
+      {
+        "word": "ghost",
+        "rate_a": 0.00034245498289472303,
+        "rate_b": 0.0
+      },
+      {
+        "word": "37",
+        "rate_a": 0.00034245498289472303,
+        "rate_b": 0.0
+      },
+      {
+        "word": "angel",
+        "rate_a": 0.00031799391268795714,
+        "rate_b": 0.0
+      },
+      {
+        "word": "iniquities",
+        "rate_a": 0.00031799391268795714,
+        "rate_b": 0.0
+      },
+      {
+        "word": "jared",
+        "rate_a": 0.000311005035486024,
+        "rate_b": 0.0
+      },
+      {
+        "word": "salvation",
+        "rate_a": 0.00030751059688505743,
+        "rate_b": 0.0
+      },
+      {
+        "word": "preach",
+        "rate_a": 0.0003005217196831243,
+        "rate_b": 0.0
+      },
+      {
+        "word": "hearken",
+        "rate_a": 0.00029702728108215777,
+        "rate_b": 0.0
+      },
+      {
+        "word": "baptized",
+        "rate_a": 0.00029702728108215777,
+        "rate_b": 0.0
+      }
+    ],
+    "distinctive_b_over_a": [
+      {
+        "word": "manuscript",
+        "rate_a": 0.0046988065031482,
+        "rate_b": 0.0
+      },
+      {
+        "word": "story",
+        "rate_a": 0.003923503430128747,
+        "rate_b": 0.0
+      },
+      {
+        "word": "fc",
+        "rate_a": 0.002654825674278733,
+        "rate_b": 0.0
+      },
+      {
+        "word": "elseon",
+        "rate_a": 0.00211446292641669,
+        "rate_b": 0.0
+      },
+      {
+        "word": "emperor",
+        "rate_a": 0.001621088243586129,
+        "rate_b": 0.0
+      },
+      {
+        "word": "lamesa",
+        "rate_a": 0.0014566300159759421,
+        "rate_b": 0.0
+      },
+      {
+        "word": "empire",
+        "rate_a": 0.00117470162578705,
+        "rate_b": 0.0
+      },
+      {
+        "word": "kentuck",
+        "rate_a": 0.001033737430692604,
+        "rate_b": 0.0
+      },
+      {
+        "word": "thro",
+        "rate_a": 0.0009397613006296401,
+        "rate_b": 0.0
+      },
+      {
+        "word": "sambul",
+        "rate_a": 0.0009397613006296401,
+        "rate_b": 0.0
+      },
+      {
+        "word": "sciota",
+        "rate_a": 0.000916267268113899,
+        "rate_b": 0.0
+      },
+      {
+        "word": "sciotans",
+        "rate_a": 0.000916267268113899,
+        "rate_b": 0.0
+      },
+      {
+        "word": "tion",
+        "rate_a": 0.000869279203082417,
+        "rate_b": 0.0
+      },
+      {
+        "word": "honour",
+        "rate_a": 0.0008457851705666761,
+        "rate_b": 0.0
+      },
+      {
+        "word": "fe",
+        "rate_a": 0.0007283150079879711,
+        "rate_b": 0.0
+      },
+      {
+        "word": "ing",
+        "rate_a": 0.000681326942956489,
+        "rate_b": 0.0
+      },
+      {
+        "word": "lobaska",
+        "rate_a": 0.000634338877925007,
+        "rate_b": 0.0
+      },
+      {
+        "word": "hamboon",
+        "rate_a": 0.000634338877925007,
+        "rate_b": 0.0
+      },
+      {
+        "word": "friendship",
+        "rate_a": 0.0006108448454092661,
+        "rate_b": 0.0
+      },
+      {
+        "word": "various",
+        "rate_a": 0.000587350812893525,
+        "rate_b": 0.0
+      },
+      {
+        "word": "con",
+        "rate_a": 0.000563856780377784,
+        "rate_b": 0.0
+      },
+      {
+        "word": "enimies",
+        "rate_a": 0.000563856780377784,
+        "rate_b": 0.0
+      },
+      {
+        "word": "kentucks",
+        "rate_a": 0.000563856780377784,
+        "rate_b": 0.0
+      },
+      {
+        "word": "citizens",
+        "rate_a": 0.0005403627478620431,
+        "rate_b": 0.0
+      },
+      {
+        "word": "enimy",
+        "rate_a": 0.0005403627478620431,
+        "rate_b": 0.0
+      },
+      {
+        "word": "counsellors",
+        "rate_a": 0.000516868715346302,
+        "rate_b": 0.0
+      },
+      {
+        "word": "t",
+        "rate_a": 0.0004933746828305611,
+        "rate_b": 0.0
+      },
+      {
+        "word": "heroes",
+        "rate_a": 0.0004933746828305611,
+        "rate_b": 0.0
+      },
+      {
+        "word": "sciotan",
+        "rate_a": 0.0004933746828305611,
+        "rate_b": 0.0
+      },
+      {
+        "word": "spaulding",
+        "rate_a": 0.00046988065031482005,
+        "rate_b": 0.0
+      },
+      {
+        "word": "arived",
+        "rate_a": 0.00046988065031482005,
+        "rate_b": 0.0
+      },
+      {
+        "word": "empires",
+        "rate_a": 0.00046988065031482005,
+        "rate_b": 0.0
+      },
+      {
+        "word": "mr",
+        "rate_a": 0.00044638661779907904,
+        "rate_b": 0.0
+      },
+      {
+        "word": "ment",
+        "rate_a": 0.00042289258528333803,
+        "rate_b": 0.0
+      },
+      {
+        "word": "pro",
+        "rate_a": 0.00042289258528333803,
+        "rate_b": 0.0
+      },
+      {
+        "word": "imperial",
+        "rate_a": 0.000399398552767597,
+        "rate_b": 0.0
+      },
+      {
+        "word": "instantly",
+        "rate_a": 0.000399398552767597,
+        "rate_b": 0.0
+      },
+      {
+        "word": "l",
+        "rate_a": 0.000375904520251856,
+        "rate_b": 0.0
+      },
+      {
+        "word": "ohio",
+        "rate_a": 0.000375904520251856,
+        "rate_b": 0.0
+      },
+      {
+        "word": "sentiments",
+        "rate_a": 0.000375904520251856,
+        "rate_b": 0.0
+      },
+      {
+        "word": "attend",
+        "rate_a": 0.000375904520251856,
+        "rate_b": 0.0
+      },
+      {
+        "word": "tho",
+        "rate_a": 0.000375904520251856,
+        "rate_b": 0.0
+      },
+      {
+        "word": "character",
+        "rate_a": 0.000352410487736115,
+        "rate_b": 0.0
+      },
+      {
+        "word": "letter",
+        "rate_a": 0.000352410487736115,
+        "rate_b": 0.0
+      },
+      {
+        "word": "principal",
+        "rate_a": 0.000352410487736115,
+        "rate_b": 0.0
+      },
+      {
+        "word": "benevolent",
+        "rate_a": 0.000352410487736115,
+        "rate_b": 0.0
+      },
+      {
+        "word": "ments",
+        "rate_a": 0.000352410487736115,
+        "rate_b": 0.0
+      },
+      {
+        "word": "generally",
+        "rate_a": 0.00032891645522037404,
+        "rate_b": 0.0
+      },
+      {
+        "word": "gamba",
+        "rate_a": 0.00032891645522037404,
+        "rate_b": 0.0
+      },
+      {
+        "word": "respective",
+        "rate_a": 0.00032891645522037404,
+        "rate_b": 0.0
+      }
+    ]
+  },
+  "book_of_mormon_vs_lahontan_new_voyages": {
+    "texts": [
+      "book_of_mormon",
+      "lahontan_new_voyages"
+    ],
+    "cosine_similarity": 0.893264925664075,
+    "profiles": {
+      "book_of_mormon": {
+        "total_words": 286169,
+        "unique_words": 6004,
+        "ttr": 0.020980609360203236,
+        "hapax": 1861,
+        "hapax_ratio": 0.006503150236398771,
+        "avg_word_len": 4.045515062777589,
+        "function_word_ratio": 0.46350932490940666,
+        "emodern_density": 0.04909686234358019,
+        "liahona_terms": {
+          "pointers": 1,
+          "ball": 10,
+          "compass": 7,
+          "liahona": 1,
+          "director": 3
+        }
+      },
+      "lahontan_new_voyages": {
+        "total_words": 270430,
+        "unique_words": 21119,
+        "ttr": 0.07809414635950153,
+        "hapax": 9898,
+        "hapax_ratio": 0.036600968827422996,
+        "avg_word_len": 4.260085789298524,
+        "function_word_ratio": 0.37275080427467366,
+        "emodern_density": 0.0014199608031653292,
+        "liahona_terms": {
+          "pointers": 0,
+          "ball": 26,
+          "compass": 26,
+          "liahona": 0,
+          "director": 0
+        }
+      }
+    },
+    "distinctive_a_over_b": [
+      {
+        "word": "yea",
+        "rate_a": 0.004361059374006269,
+        "rate_b": 0.0
+      },
+      {
+        "word": "lamanites",
+        "rate_a": 0.00243911814347466,
+        "rate_b": 0.0
+      },
+      {
+        "word": "nephi",
+        "rate_a": 0.002208485195810867,
+        "rate_b": 0.0
+      },
+      {
+        "word": "wherefore",
+        "rate_a": 0.0014641697738049895,
+        "rate_b": 0.0
+      },
+      {
+        "word": "christ",
+        "rate_a": 0.0013733143701798588,
+        "rate_b": 0.0
+      },
+      {
+        "word": "nephites",
+        "rate_a": 0.001299931159559561,
+        "rate_b": 0.0
+      },
+      {
+        "word": "alma",
+        "rate_a": 0.0011252092295112328,
+        "rate_b": 0.0
+      },
+      {
+        "word": "exceedingly",
+        "rate_a": 0.000933015106458072,
+        "rate_b": 0.0
+      },
+      {
+        "word": "cast",
+        "rate_a": 0.000796732001020376,
+        "rate_b": 0.0
+      },
+      {
+        "word": "moroni",
+        "rate_a": 0.0007932375624194095,
+        "rate_b": 0.0
+      },
+      {
+        "word": "israel",
+        "rate_a": 0.0007408209834049111,
+        "rate_b": 0.0
+      },
+      {
+        "word": "jesus",
+        "rate_a": 0.0006604488955826802,
+        "rate_b": 0.0
+      },
+      {
+        "word": "saith",
+        "rate_a": 0.000653460018380747,
+        "rate_b": 0.0
+      },
+      {
+        "word": "insomuch",
+        "rate_a": 0.0006324933867749477,
+        "rate_b": 0.0
+      },
+      {
+        "word": "ammon",
+        "rate_a": 0.0006045378779672151,
+        "rate_b": 0.0
+      },
+      {
+        "word": "spake",
+        "rate_a": 0.0005940545621643155,
+        "rate_b": 0.0
+      },
+      {
+        "word": "jerusalem",
+        "rate_a": 0.0005730879305585161,
+        "rate_b": 0.0
+      },
+      {
+        "word": "wickedness",
+        "rate_a": 0.0005591101761546499,
+        "rate_b": 0.0
+      },
+      {
+        "word": "zarahemla",
+        "rate_a": 0.0005171769129430512,
+        "rate_b": 0.0
+      },
+      {
+        "word": "gentiles",
+        "rate_a": 0.0004927158427362852,
+        "rate_b": 0.0
+      },
+      {
+        "word": "hast",
+        "rate_a": 0.0004892214041353186,
+        "rate_b": 0.0
+      },
+      {
+        "word": "blessed",
+        "rate_a": 0.0004857269655343521,
+        "rate_b": 0.0
+      },
+      {
+        "word": "iniquity",
+        "rate_a": 0.00047174921113048586,
+        "rate_b": 0.0
+      },
+      {
+        "word": "lehi",
+        "rate_a": 0.0004507825795246865,
+        "rate_b": 0.0
+      },
+      {
+        "word": "cometh",
+        "rate_a": 0.00044379370232275334,
+        "rate_b": 0.0
+      },
+      {
+        "word": "mosiah",
+        "rate_a": 0.0003948715619092215,
+        "rate_b": 0.0
+      },
+      {
+        "word": "righteous",
+        "rate_a": 0.00038788268470728836,
+        "rate_b": 0.0
+      },
+      {
+        "word": "slay",
+        "rate_a": 0.00037739936890438864,
+        "rate_b": 0.0
+      },
+      {
+        "word": "shalt",
+        "rate_a": 0.000366916053101489,
+        "rate_b": 0.0
+      },
+      {
+        "word": "righteousness",
+        "rate_a": 0.00035992717589955584,
+        "rate_b": 0.0
+      },
+      {
+        "word": "vineyard",
+        "rate_a": 0.00035293829869762275,
+        "rate_b": 0.0
+      },
+      {
+        "word": "forever",
+        "rate_a": 0.0003494438600966562,
+        "rate_b": 0.0
+      },
+      {
+        "word": "helaman",
+        "rate_a": 0.0003459494214956896,
+        "rate_b": 0.0
+      },
+      {
+        "word": "gutenberg",
+        "rate_a": 0.00034245498289472303,
+        "rate_b": 0.0
+      },
+      {
+        "word": "ghost",
+        "rate_a": 0.00034245498289472303,
+        "rate_b": 0.0
+      },
+      {
+        "word": "iniquities",
+        "rate_a": 0.00031799391268795714,
+        "rate_b": 0.0
+      },
+      {
+        "word": "delivered",
+        "rate_a": 0.00031449947408699057,
+        "rate_b": 0.0
+      },
+      {
+        "word": "jared",
+        "rate_a": 0.000311005035486024,
+        "rate_b": 0.0
+      },
+      {
+        "word": "hearken",
+        "rate_a": 0.00029702728108215777,
+        "rate_b": 0.0
+      },
+      {
+        "word": "baptized",
+        "rate_a": 0.00029702728108215777,
+        "rate_b": 0.0
+      },
+      {
+        "word": "yourselves",
+        "rate_a": 0.0002935328424811912,
+        "rate_b": 0.0
+      },
+      {
+        "word": "resurrection",
+        "rate_a": 0.0002830495266782915,
+        "rate_b": 0.0
+      },
+      {
+        "word": "fulfilled",
+        "rate_a": 0.0002760606494763584,
+        "rate_b": 0.0
+      },
+      {
+        "word": "whosoever",
+        "rate_a": 0.0002760606494763584,
+        "rate_b": 0.0
+      },
+      {
+        "word": "afflictions",
+        "rate_a": 0.0002725662108753918,
+        "rate_b": 0.0
+      },
+      {
+        "word": "abominations",
+        "rate_a": 0.0002655773336734587,
+        "rate_b": 0.0
+      },
+      {
+        "word": "lamb",
+        "rate_a": 0.0002655773336734587,
+        "rate_b": 0.0
+      },
+      {
+        "word": "coriantumr",
+        "rate_a": 0.0002655773336734587,
+        "rate_b": 0.0
+      },
+      {
+        "word": "moses",
+        "rate_a": 0.0002620828950724921,
+        "rate_b": 0.0
+      },
+      {
+        "word": "lest",
+        "rate_a": 0.0002620828950724921,
+        "rate_b": 0.0
+      }
+    ],
+    "distinctive_b_over_a": [
+      {
+        "word": "de",
+        "rate_a": 0.00350183041822283,
+        "rate_b": 0.0
+      },
+      {
+        "word": "fo",
+        "rate_a": 0.0027622674999075547,
+        "rate_b": 0.0
+      },
+      {
+        "word": "em",
+        "rate_a": 0.0025367008098213955,
+        "rate_b": 0.0
+      },
+      {
+        "word": "french",
+        "rate_a": 0.002403579484524646,
+        "rate_b": 0.0
+      },
+      {
+        "word": "thefe",
+        "rate_a": 0.001963539548127057,
+        "rate_b": 0.0
+      },
+      {
+        "word": "lahontan",
+        "rate_a": 0.0019487482897607513,
+        "rate_b": 0.0
+      },
+      {
+        "word": "fome",
+        "rate_a": 0.0018710941833376474,
+        "rate_b": 0.0
+      },
+      {
+        "word": "voyages",
+        "rate_a": 0.0018156269644640018,
+        "rate_b": 0.0
+      },
+      {
+        "word": "canada",
+        "rate_a": 0.0017564619309987798,
+        "rate_b": 0.0
+      },
+      {
+        "word": "ed",
+        "rate_a": 0.0015789668306031136,
+        "rate_b": 0.0
+      },
+      {
+        "word": "savages",
+        "rate_a": 0.0015493843138705025,
+        "rate_b": 0.0
+      },
+      {
+        "word": "fuch",
+        "rate_a": 0.0015308952409126206,
+        "rate_b": 0.0
+      },
+      {
+        "word": "tis",
+        "rate_a": 0.0015198017971378916,
+        "rate_b": 0.0
+      },
+      {
+        "word": "la",
+        "rate_a": 0.0015124061679547387,
+        "rate_b": 0.0
+      },
+      {
+        "word": "pp",
+        "rate_a": 0.0014014717302074473,
+        "rate_b": 0.0
+      },
+      {
+        "word": "st",
+        "rate_a": 0.001290537292460156,
+        "rate_b": 0.0
+      },
+      {
+        "word": "p",
+        "rate_a": 0.001231372258994934,
+        "rate_b": 0.0
+      },
+      {
+        "word": "france",
+        "rate_a": 0.001220278815220205,
+        "rate_b": 0.0
+      },
+      {
+        "word": "america",
+        "rate_a": 0.0011130421920644898,
+        "rate_b": 0.0
+      },
+      {
+        "word": "indians",
+        "rate_a": 0.0010760640461487262,
+        "rate_b": 0.0
+      },
+      {
+        "word": "thofe",
+        "rate_a": 0.0009651296084014347,
+        "rate_b": 0.0
+      },
+      {
+        "word": "mr",
+        "rate_a": 0.0009429427208519765,
+        "rate_b": 0.0
+      },
+      {
+        "word": "muft",
+        "rate_a": 0.0008652886144288726,
+        "rate_b": 0.0
+      },
+      {
+        "word": "iroquefe",
+        "rate_a": 0.0008172170247383796,
+        "rate_b": 0.0
+      },
+      {
+        "word": "leagues",
+        "rate_a": 0.0008024257663720741,
+        "rate_b": 0.0
+      },
+      {
+        "word": "des",
+        "rate_a": 0.0007765410642310395,
+        "rate_b": 0.0
+      },
+      {
+        "word": "quebec",
+        "rate_a": 0.0007728432496394631,
+        "rate_b": 0.0
+      },
+      {
+        "word": "frontenac",
+        "rate_a": 0.0007617498058647339,
+        "rate_b": 0.0
+      },
+      {
+        "word": "reafon",
+        "rate_a": 0.0007580519912731576,
+        "rate_b": 0.0
+      },
+      {
+        "word": "themfelves",
+        "rate_a": 0.0007395629183152756,
+        "rate_b": 0.0
+      },
+      {
+        "word": "t",
+        "rate_a": 0.0007395629183152756,
+        "rate_b": 0.0
+      },
+      {
+        "word": "letter",
+        "rate_a": 0.0006471175535258662,
+        "rate_b": 0.0
+      },
+      {
+        "word": "feveral",
+        "rate_a": 0.0006175350367932552,
+        "rate_b": 0.0
+      },
+      {
+        "word": "bay",
+        "rate_a": 0.0006064415930185261,
+        "rate_b": 0.0
+      },
+      {
+        "word": "ufe",
+        "rate_a": 0.0006027437784269496,
+        "rate_b": 0.0
+      },
+      {
+        "word": "indian",
+        "rate_a": 0.0005731612616943386,
+        "rate_b": 0.0
+      },
+      {
+        "word": "sir",
+        "rate_a": 0.0005731612616943386,
+        "rate_b": 0.0
+      },
+      {
+        "word": "hunting",
+        "rate_a": 0.0005583700033280331,
+        "rate_b": 0.0
+      },
+      {
+        "word": "moft",
+        "rate_a": 0.0005583700033280331,
+        "rate_b": 0.0
+      },
+      {
+        "word": "le",
+        "rate_a": 0.0005139962282291166,
+        "rate_b": 0.0
+      },
+      {
+        "word": "fet",
+        "rate_a": 0.0005102984136375402,
+        "rate_b": 0.0
+      },
+      {
+        "word": "lakes",
+        "rate_a": 0.0004918093406796584,
+        "rate_b": 0.0
+      },
+      {
+        "word": "firft",
+        "rate_a": 0.0004696224531302,
+        "rate_b": 0.0
+      },
+      {
+        "word": "iroquois",
+        "rate_a": 0.0004622268239470473,
+        "rate_b": 0.0
+      },
+      {
+        "word": "portugal",
+        "rate_a": 0.0004622268239470473,
+        "rate_b": 0.0
+      },
+      {
+        "word": "fay",
+        "rate_a": 0.0004548311947638945,
+        "rate_b": 0.0
+      },
+      {
+        "word": "laft",
+        "rate_a": 0.0004437377509891654,
+        "rate_b": 0.0
+      },
+      {
+        "word": "oblig",
+        "rate_a": 0.000440039936397589,
+        "rate_b": 0.0
+      },
+      {
+        "word": "sketch",
+        "rate_a": 0.0004326443072144363,
+        "rate_b": 0.0
+      },
+      {
+        "word": "felf",
+        "rate_a": 0.0004289464926228599,
+        "rate_b": 0.0
+      }
+    ]
+  },
+  "book_of_mormon_vs_aeneid": {
+    "texts": [
+      "book_of_mormon",
+      "aeneid"
+    ],
+    "cosine_similarity": 0.8356022638767652,
+    "profiles": {
+      "book_of_mormon": {
+        "total_words": 286169,
+        "unique_words": 6004,
+        "ttr": 0.020980609360203236,
+        "hapax": 1861,
+        "hapax_ratio": 0.006503150236398771,
+        "avg_word_len": 4.045515062777589,
+        "function_word_ratio": 0.46350932490940666,
+        "emodern_density": 0.04909686234358019,
+        "liahona_terms": {
+          "pointers": 1,
+          "ball": 10,
+          "compass": 7,
+          "liahona": 1,
+          "director": 3
+        }
+      },
+      "aeneid": {
+        "total_words": 116763,
+        "unique_words": 8708,
+        "ttr": 0.07457841953358513,
+        "hapax": 3313,
+        "hapax_ratio": 0.02837371427592645,
+        "avg_word_len": 4.207462980567474,
+        "function_word_ratio": 0.35294571054186685,
+        "emodern_density": 0.005292772539246165,
+        "liahona_terms": {
+          "pointers": 0,
+          "ball": 0,
+          "compass": 14,
+          "liahona": 0,
+          "director": 0
+        }
+      }
+    },
+    "distinctive_a_over_b": [
+      {
+        "word": "unto",
+        "rate_a": 0.012730239823321185,
+        "rate_b": 0.0
+      },
+      {
+        "word": "yea",
+        "rate_a": 0.004361059374006269,
+        "rate_b": 0.0
+      },
+      {
+        "word": "lamanites",
+        "rate_a": 0.00243911814347466,
+        "rate_b": 0.0
+      },
+      {
+        "word": "nephi",
+        "rate_a": 0.002208485195810867,
+        "rate_b": 0.0
+      },
+      {
+        "word": "hath",
+        "rate_a": 0.001803130318098746,
+        "rate_b": 0.0
+      },
+      {
+        "word": "13",
+        "rate_a": 0.0016179250722475182,
+        "rate_b": 0.0
+      },
+      {
+        "word": "12",
+        "rate_a": 0.0016074417564446184,
+        "rate_b": 0.0
+      },
+      {
+        "word": "11",
+        "rate_a": 0.0015690029318339862,
+        "rate_b": 0.0
+      },
+      {
+        "word": "10",
+        "rate_a": 0.0015235752300214209,
+        "rate_b": 0.0
+      },
+      {
+        "word": "wherefore",
+        "rate_a": 0.0014641697738049895,
+        "rate_b": 0.0
+      },
+      {
+        "word": "15",
+        "rate_a": 0.0014257309491943573,
+        "rate_b": 0.0
+      },
+      {
+        "word": "christ",
+        "rate_a": 0.0013733143701798588,
+        "rate_b": 0.0
+      },
+      {
+        "word": "14",
+        "rate_a": 0.0013558421771750259,
+        "rate_b": 0.0
+      },
+      {
+        "word": "17",
+        "rate_a": 0.001299931159559561,
+        "rate_b": 0.0
+      },
+      {
+        "word": "nephites",
+        "rate_a": 0.001299931159559561,
+        "rate_b": 0.0
+      },
+      {
+        "word": "18",
+        "rate_a": 0.001275470089352795,
+        "rate_b": 0.0
+      },
+      {
+        "word": "16",
+        "rate_a": 0.0011985924401315307,
+        "rate_b": 0.0
+      },
+      {
+        "word": "19",
+        "rate_a": 0.001188109124328631,
+        "rate_b": 0.0
+      },
+      {
+        "word": "alma",
+        "rate_a": 0.0011252092295112328,
+        "rate_b": 0.0
+      },
+      {
+        "word": "21",
+        "rate_a": 0.0010832759662996341,
+        "rate_b": 0.0
+      },
+      {
+        "word": "22",
+        "rate_a": 0.0009749483696696707,
+        "rate_b": 0.0
+      },
+      {
+        "word": "exceedingly",
+        "rate_a": 0.000933015106458072,
+        "rate_b": 0.0
+      },
+      {
+        "word": "26",
+        "rate_a": 0.000933015106458072,
+        "rate_b": 0.0
+      },
+      {
+        "word": "24",
+        "rate_a": 0.0009120484748522726,
+        "rate_b": 0.0
+      },
+      {
+        "word": "27",
+        "rate_a": 0.0009120484748522726,
+        "rate_b": 0.0
+      },
+      {
+        "word": "23",
+        "rate_a": 0.0008910818432464732,
+        "rate_b": 0.0
+      },
+      {
+        "word": "wilderness",
+        "rate_a": 0.0008875874046455067,
+        "rate_b": 0.0
+      },
+      {
+        "word": "chapter",
+        "rate_a": 0.0008176986326261755,
+        "rate_b": 0.0
+      },
+      {
+        "word": "saying",
+        "rate_a": 0.0008142041940252089,
+        "rate_b": 0.0
+      },
+      {
+        "word": "moroni",
+        "rate_a": 0.0007932375624194095,
+        "rate_b": 0.0
+      },
+      {
+        "word": "25",
+        "rate_a": 0.000789743123818443,
+        "rate_b": 0.0
+      },
+      {
+        "word": "28",
+        "rate_a": 0.0007862486852174764,
+        "rate_b": 0.0
+      },
+      {
+        "word": "israel",
+        "rate_a": 0.0007408209834049111,
+        "rate_b": 0.0
+      },
+      {
+        "word": "commandments",
+        "rate_a": 0.0007303376676020114,
+        "rate_b": 0.0
+      },
+      {
+        "word": "called",
+        "rate_a": 0.0007303376676020114,
+        "rate_b": 0.0
+      },
+      {
+        "word": "29",
+        "rate_a": 0.0007128654745971786,
+        "rate_b": 0.0
+      },
+      {
+        "word": "until",
+        "rate_a": 0.0007023821587942789,
+        "rate_b": 0.0
+      },
+      {
+        "word": "jesus",
+        "rate_a": 0.0006604488955826802,
+        "rate_b": 0.0
+      },
+      {
+        "word": "saith",
+        "rate_a": 0.000653460018380747,
+        "rate_b": 0.0
+      },
+      {
+        "word": "insomuch",
+        "rate_a": 0.0006324933867749477,
+        "rate_b": 0.0
+      },
+      {
+        "word": "nevertheless",
+        "rate_a": 0.000622010070972048,
+        "rate_b": 0.0
+      },
+      {
+        "word": "spake",
+        "rate_a": 0.0005940545621643155,
+        "rate_b": 0.0
+      },
+      {
+        "word": "jerusalem",
+        "rate_a": 0.0005730879305585161,
+        "rate_b": 0.0
+      },
+      {
+        "word": "sins",
+        "rate_a": 0.000566099053356583,
+        "rate_b": 0.0
+      },
+      {
+        "word": "wickedness",
+        "rate_a": 0.0005591101761546499,
+        "rate_b": 0.0
+      },
+      {
+        "word": "31",
+        "rate_a": 0.0005346491059478839,
+        "rate_b": 0.0
+      },
+      {
+        "word": "caused",
+        "rate_a": 0.0005346491059478839,
+        "rate_b": 0.0
+      },
+      {
+        "word": "thereof",
+        "rate_a": 0.0005206713515440177,
+        "rate_b": 0.0
+      },
+      {
+        "word": "zarahemla",
+        "rate_a": 0.0005171769129430512,
+        "rate_b": 0.0
+      },
+      {
+        "word": "gentiles",
+        "rate_a": 0.0004927158427362852,
+        "rate_b": 0.0
+      }
+    ],
+    "distinctive_b_over_a": [
+      {
+        "word": "th",
+        "rate_a": 0.002706336767640434,
+        "rate_b": 0.0
+      },
+      {
+        "word": "ring",
+        "rate_a": 0.0025350496304480017,
+        "rate_b": 0.0
+      },
+      {
+        "word": "n",
+        "rate_a": 0.0024151486344132986,
+        "rate_b": 0.0
+      },
+      {
+        "word": "trojan",
+        "rate_a": 0.002046881289449569,
+        "rate_b": 0.0
+      },
+      {
+        "word": "fate",
+        "rate_a": 0.0018499010816782713,
+        "rate_b": 0.0
+      },
+      {
+        "word": "heav",
+        "rate_a": 0.0017985149405205416,
+        "rate_b": 0.0
+      },
+      {
+        "word": "thro",
+        "rate_a": 0.0016871783013454604,
+        "rate_b": 0.0
+      },
+      {
+        "word": "ry",
+        "rate_a": 0.0012760891720836223,
+        "rate_b": 0.0
+      },
+      {
+        "word": "turnus",
+        "rate_a": 0.0012675248152240008,
+        "rate_b": 0.0
+      },
+      {
+        "word": "er",
+        "rate_a": 0.0012332673877855143,
+        "rate_b": 0.0
+      },
+      {
+        "word": "ev",
+        "rate_a": 0.0011647525329085413,
+        "rate_b": 0.0
+      },
+      {
+        "word": "rs",
+        "rate_a": 0.0010962376780315683,
+        "rate_b": 0.0
+      },
+      {
+        "word": "pow",
+        "rate_a": 0.0010362871800142167,
+        "rate_b": 0.0
+      },
+      {
+        "word": "race",
+        "rate_a": 0.0010191584662949736,
+        "rate_b": 0.0
+      },
+      {
+        "word": "foes",
+        "rate_a": 0.0010020297525757302,
+        "rate_b": 0.0
+      },
+      {
+        "word": "aeneas",
+        "rate_a": 0.0009934653957161088,
+        "rate_b": 0.0
+      },
+      {
+        "word": "r",
+        "rate_a": 0.0009420792545583789,
+        "rate_b": 0.0
+      },
+      {
+        "word": "town",
+        "rate_a": 0.0009163861839795141,
+        "rate_b": 0.0
+      },
+      {
+        "word": "jove",
+        "rate_a": 0.0008650000428217843,
+        "rate_b": 0.0
+      },
+      {
+        "word": "fatal",
+        "rate_a": 0.0008393069722429194,
+        "rate_b": 0.0
+      },
+      {
+        "word": "troy",
+        "rate_a": 0.0008221782585236761,
+        "rate_b": 0.0
+      },
+      {
+        "word": "trojans",
+        "rate_a": 0.0007450990467870815,
+        "rate_b": 0.0
+      },
+      {
+        "word": "skies",
+        "rate_a": 0.0007450990467870815,
+        "rate_b": 0.0
+      },
+      {
+        "word": "latian",
+        "rate_a": 0.000710841619348595,
+        "rate_b": 0.0
+      },
+      {
+        "word": "fortune",
+        "rate_a": 0.0006765841919101085,
+        "rate_b": 0.0
+      },
+      {
+        "word": "foe",
+        "rate_a": 0.0006680198350504869,
+        "rate_b": 0.0
+      },
+      {
+        "word": "rous",
+        "rate_a": 0.0006508911213312437,
+        "rate_b": 0.0
+      },
+      {
+        "word": "troops",
+        "rate_a": 0.000642326764471622,
+        "rate_b": 0.0
+      },
+      {
+        "word": "tis",
+        "rate_a": 0.0006080693370331355,
+        "rate_b": 0.0
+      },
+      {
+        "word": "seas",
+        "rate_a": 0.0005909406233138922,
+        "rate_b": 0.0
+      },
+      {
+        "word": "tow",
+        "rate_a": 0.0005823762664542707,
+        "rate_b": 0.0
+      },
+      {
+        "word": "goddess",
+        "rate_a": 0.000573811909594649,
+        "rate_b": 0.0
+      },
+      {
+        "word": "hero",
+        "rate_a": 0.0005652475527350274,
+        "rate_b": 0.0
+      },
+      {
+        "word": "sire",
+        "rate_a": 0.0005566831958754057,
+        "rate_b": 0.0
+      },
+      {
+        "word": "flies",
+        "rate_a": 0.0005566831958754057,
+        "rate_b": 0.0
+      },
+      {
+        "word": "juno",
+        "rate_a": 0.0005309901252965409,
+        "rate_b": 0.0
+      },
+      {
+        "word": "sky",
+        "rate_a": 0.0005309901252965409,
+        "rate_b": 0.0
+      },
+      {
+        "word": "stands",
+        "rate_a": 0.000505297054717676,
+        "rate_b": 0.0
+      },
+      {
+        "word": "pious",
+        "rate_a": 0.0004967326978580544,
+        "rate_b": 0.0
+      },
+      {
+        "word": "aid",
+        "rate_a": 0.0004796039841388111,
+        "rate_b": 0.0
+      },
+      {
+        "word": "pallas",
+        "rate_a": 0.00047103962727918945,
+        "rate_b": 0.0
+      },
+      {
+        "word": "spear",
+        "rate_a": 0.0004624752704195678,
+        "rate_b": 0.0
+      },
+      {
+        "word": "fates",
+        "rate_a": 0.0004624752704195678,
+        "rate_b": 0.0
+      },
+      {
+        "word": "royal",
+        "rate_a": 0.00044534655670032457,
+        "rate_b": 0.0
+      },
+      {
+        "word": "purple",
+        "rate_a": 0.00044534655670032457,
+        "rate_b": 0.0
+      },
+      {
+        "word": "sustain",
+        "rate_a": 0.00043678219984070294,
+        "rate_b": 0.0
+      },
+      {
+        "word": "crowd",
+        "rate_a": 0.00043678219984070294,
+        "rate_b": 0.0
+      },
+      {
+        "word": "renew",
+        "rate_a": 0.0004282178429810813,
+        "rate_b": 0.0
+      },
+      {
+        "word": "spoke",
+        "rate_a": 0.0004282178429810813,
+        "rate_b": 0.0
+      },
+      {
+        "word": "dire",
+        "rate_a": 0.0004196534861214597,
+        "rate_b": 0.0
+      }
+    ]
+  },
+  "onomasticon": {
+    "bom_count": 397,
+    "lahontan_count": 7105,
+    "matches": [
+      "adam",
+      "almighty",
+      "angola",
+      "ani",
+      "bible",
+      "book",
+      "chaldeans",
+      "church",
+      "creator",
+      "david",
+      "defect",
+      "egyptians",
+      "eternal",
+      "eve",
+      "father",
+      "foundation",
+      "general",
+      "god",
+      "gods",
+      "great",
+      "hebrew",
+      "holy",
+      "house",
+      "isaac",
+      "jew",
+      "jews",
+      "john",
+      "jonas",
+      "joseph",
+      "king",
+      "latter",
+      "lord",
+      "man",
+      "mary",
+      "mighty",
+      "mission",
+      "mississippi",
+      "mount",
+      "new",
+      "noah",
+      "omni",
+      "peace",
+      "red",
+      "saints",
+      "son",
+      "spirit",
+      "supreme",
+      "united"
+    ],
+    "match_count": 48
+  },
+  "liahona_term_segments": {
+    "ball": {
+      "term": "ball",
+      "total": 10,
+      "by_book": {
+        "1 Nephi": {
+          "total": 7,
+          "by_chapter": {
+            "16": 7
+          }
+        },
+        "2 Nephi": {
+          "total": 1,
+          "by_chapter": {
+            "5": 1
+          }
+        },
+        "Mosiah": {
+          "total": 1,
+          "by_chapter": {
+            "1": 1
+          }
+        },
+        "Alma": {
+          "total": 1,
+          "by_chapter": {
+            "37": 1
+          }
+        }
+      },
+      "by_dictation_batch": {
+        "term": "ball",
+        "totals": {
+          "first": 2,
+          "second": 8
+        },
+        "books_by_batch": {
+          "first": {
+            "Mosiah": 1,
+            "Alma": 1
+          },
+          "second": {
+            "1 Nephi": 7,
+            "2 Nephi": 1
+          }
+        }
+      }
+    },
+    "compass": {
+      "term": "compass",
+      "total": 7,
+      "by_book": {
+        "1 Nephi": {
+          "total": 2,
+          "by_chapter": {
+            "18": 2
+          }
+        },
+        "2 Nephi": {
+          "total": 2,
+          "by_chapter": {
+            "5": 1,
+            "7": 1
+          }
+        },
+        "Alma": {
+          "total": 3,
+          "by_chapter": {
+            "37": 3
+          }
+        }
+      },
+      "by_dictation_batch": {
+        "term": "compass",
+        "totals": {
+          "first": 3,
+          "second": 4
+        },
+        "books_by_batch": {
+          "first": {
+            "Alma": 3
+          },
+          "second": {
+            "1 Nephi": 2,
+            "2 Nephi": 2
+          }
+        }
+      }
+    },
+    "director": {
+      "term": "director",
+      "total": 3,
+      "by_book": {
+        "Mosiah": {
+          "total": 1,
+          "by_chapter": {
+            "1": 1
+          }
+        },
+        "Alma": {
+          "total": 2,
+          "by_chapter": {
+            "37": 2
+          }
+        }
+      },
+      "by_dictation_batch": {
+        "term": "director",
+        "totals": {
+          "first": 3,
+          "second": 0
+        },
+        "books_by_batch": {
+          "first": {
+            "Mosiah": 1,
+            "Alma": 2
+          },
+          "second": {}
+        }
+      }
+    },
+    "liahona": {
+      "term": "liahona",
+      "total": 1,
+      "by_book": {
+        "Alma": {
+          "total": 1,
+          "by_chapter": {
+            "37": 1
+          }
+        }
+      },
+      "by_dictation_batch": {
+        "term": "liahona",
+        "totals": {
+          "first": 1,
+          "second": 0
+        },
+        "books_by_batch": {
+          "first": {
+            "Alma": 1
+          },
+          "second": {}
+        }
+      }
+    },
+    "pointers": {
+      "term": "pointers",
+      "total": 1,
+      "by_book": {
+        "1 Nephi": {
+          "total": 1,
+          "by_chapter": {
+            "16": 1
+          }
+        }
+      },
+      "by_dictation_batch": {
+        "term": "pointers",
+        "totals": {
+          "first": 0,
+          "second": 1
+        },
+        "books_by_batch": {
+          "first": {},
+          "second": {
+            "1 Nephi": 1
+          }
+        }
+      }
+    }
+  },
+  "textreuse_bom_vs_spalding": {
+    "texts": [
+      "book_of_mormon",
+      "spalding_manuscript"
+    ],
+    "n": 6,
+    "jaccard_similarity": 4.5207226698096455e-05,
+    "top_overlaps": [
+      [
+        "on the other side of the",
+        6.988999315078067e-06
+      ],
+      [
+        "should fall into the hands of",
+        6.988999315078067e-06
+      ],
+      [
+        "the other side of the river",
+        6.988999315078067e-06
+      ],
+      [
+        "jesus christ of latter day saints",
+        3.4944996575390336e-06
+      ],
+      [
+        "great was the joy of the",
+        3.4944996575390336e-06
+      ],
+      [
+        "was covered with the bodies of",
+        3.4944996575390336e-06
+      ],
+      [
+        "church of jesus christ of latter",
+        3.4944996575390336e-06
+      ],
+      [
+        "of jesus christ of latter day",
+        3.4944996575390336e-06
+      ],
+      [
+        "who was the eldest son of",
+        3.4944996575390336e-06
+      ],
+      [
+        "from the right to the left",
+        3.4944996575390336e-06
+      ],
+      [
+        "of the book of mormon this",
+        3.4944996575390336e-06
+      ],
+      [
+        "be for the benefit of the",
+        3.4944996575390336e-06
+      ],
+      [
+        "on both sides of the river",
+        3.4944996575390336e-06
+      ],
+      [
+        "in the cause of their country",
+        3.4944996575390336e-06
+      ]
+    ]
+  },
+  "textreuse_bom_vs_lahontan": {
+    "texts": [
+      "book_of_mormon",
+      "lahontan_new_voyages"
+    ],
+    "n": 6,
+    "jaccard_similarity": 6.205468710334362e-05,
+    "top_overlaps": [
+      [
+        "if it had not been for",
+        1.0483498972617101e-05
+      ],
+      [
+        "fall into the hands of the",
+        7.395765924008505e-06
+      ],
+      [
+        "out of the hands of the",
+        3.6978829620042525e-06
+      ],
+      [
+        "people upon the face of the",
+        3.6978829620042525e-06
+      ],
+      [
+        "all the inhabitants of the earth",
+        3.6978829620042525e-06
+      ],
+      [
+        "of their gold and their silver",
+        3.6978829620042525e-06
+      ],
+      [
+        "good for nothing but to be",
+        3.6978829620042525e-06
+      ],
+      [
+        "if it were not for the",
+        3.6978829620042525e-06
+      ],
+      [
+        "to hear the word of god",
+        3.6978829620042525e-06
+      ],
+      [
+        "into the hands of their enemies",
+        3.6978829620042525e-06
+      ],
+      [
+        "fallen into the hands of the",
+        3.6978829620042525e-06
+      ],
+      [
+        "upon the face of the earth",
+        3.6978829620042525e-06
+      ],
+      [
+        "i do not believe that there",
+        3.4944996575390336e-06
+      ],
+      [
+        "hand and the other on the",
+        3.4944996575390336e-06
+      ],
+      [
+        "fall into the hands of their",
+        3.4944996575390336e-06
+      ],
+      [
+        "of their country and of their",
+        3.4944996575390336e-06
+      ],
+      [
+        "the remainder of his days in",
+        3.4944996575390336e-06
+      ],
+      [
+        "the four corners of the earth",
+        3.4944996575390336e-06
+      ],
+      [
+        "it had not been for the",
+        3.4944996575390336e-06
+      ],
+      [
+        "falling into the hands of the",
+        3.4944996575390336e-06
+      ]
+    ]
+  },
+  "parody_hypotheses": [
+    {
+      "hypothesis_id": "mormon_le_parasite_mormon",
+      "claim": "Lars Nielsen (2024) argues the name 'Mormon' derives from 'Le Parasite Mormon: Histoire Comique' (1650), a French satire of a real person (Montmaur), via a claimed syllable swap mon-MOR -> MOR-mon.",
+      "evaluation": {
+        "name_a": "Mormon",
+        "name_b": "Mormon",
+        "direct": {
+          "a": "Mormon",
+          "b": "Mormon",
+          "soundex_a": "M655",
+          "soundex_b": "M655",
+          "soundex_match": true,
+          "nysiis_a": "MARNAN",
+          "nysiis_b": "MARNAN",
+          "nysiis_match": true,
+          "metaphone_a": "MRMN",
+          "metaphone_b": "MRMN",
+          "metaphone_match": true,
+          "sequence_ratio": 1.0,
+          "jaro_winkler": 1.0,
+          "composite": 1.0
+        },
+        "baseline": {
+          "n": 2000,
+          "mean_composite": 0.11982755060115896,
+          "std_composite": 0.0662592947357298,
+          "max_composite": 0.48752136752136754
+        },
+        "z_score": 13.283758194368689,
+        "distinguishable_from_chance": true,
+        "z_threshold": 2.0
+      }
+    },
+    {
+      "hypothesis_id": "nephi_barachias_nephi",
+      "claim": "Nielsen argues 'Nephi' derives from Athanasius Kircher's 'Barachias Nephi', used only in Kircher's unpublished 1628-1632 letters to Pietro della Valle (Vatican archives) -- Kircher's PUBLISHED works instead say 'Abenephius the Arab', a discrepancy critics have flagged as a factual problem with the sourcing.",
+      "evaluation": {
+        "name_a": "Nephi",
+        "name_b": "Nephi",
+        "direct": {
+          "a": "Nephi",
+          "b": "Nephi",
+          "soundex_a": "N100",
+          "soundex_b": "N100",
+          "soundex_match": true,
+          "nysiis_a": "NAF",
+          "nysiis_b": "NAF",
+          "nysiis_match": true,
+          "metaphone_a": "NF",
+          "metaphone_b": "NF",
+          "metaphone_match": true,
+          "sequence_ratio": 1.0,
+          "jaro_winkler": 1.0,
+          "composite": 1.0
+        },
+        "baseline": {
+          "n": 2000,
+          "mean_composite": 0.11232853798251399,
+          "std_composite": 0.058280783156941816,
+          "max_composite": 0.6599999999999999
+        },
+        "z_score": 15.230946015723806,
+        "distinguishable_from_chance": true,
+        "z_threshold": 2.0
+      }
+    },
+    {
+      "hypothesis_id": "liahona_lahontan",
+      "claim": "The repo owner's own prior research (a ~81,000-word dossier, reviewed 2026-08-23, predating this codebase) argues for a Lahontan/Liahona connection on three legs: (a) phonetic -- the Book of Mormon's original manuscript spelling 'Lahonti' (later editorially changed to 'Lehonti', Alma 47) is one letter from 'Lahontan', and 'Liahona' itself shares the consonant skeleton L-H-N with a documented period variant spelling 'La Hontan'; (b) conceptual -- Lahontan's New Voyages Vol. II describes indigenous peoples attributing spiritual agency to a compass and other instruments (quoted below), thematically adjacent to the Liahona's faith-dependent operation (Alma 37:40); (c) access -- Lahontan's English translation is documented in Jefferson's library and the Library Company of Philadelphia, though explicitly NOT in the Manchester/Palmyra library nearest Joseph Smith himself (per Robert Paul's 1982 study) -- a negative finding the dossier reports honestly.",
+      "evaluation": {
+        "name_a": "Liahona",
+        "name_b": "Lahontan",
+        "direct": {
+          "a": "Liahona",
+          "b": "Lahontan",
+          "soundex_a": "L500",
+          "soundex_b": "L535",
+          "soundex_match": false,
+          "nysiis_a": "LAHAN",
+          "nysiis_b": "LAHANTAN",
+          "nysiis_match": false,
+          "metaphone_a": "LHN",
+          "metaphone_b": "LHNTN",
+          "metaphone_match": false,
+          "sequence_ratio": 0.8,
+          "jaro_winkler": 0.8821428571428571,
+          "composite": 0.33642857142857147
+        },
+        "baseline": {
+          "n": 2000,
+          "mean_composite": 0.13730803436524738,
+          "std_composite": 0.055677263021660116,
+          "max_composite": 0.9495238095238094
+        },
+        "z_score": 3.576334867356182,
+        "distinguishable_from_chance": true,
+        "z_threshold": 2.0
+      }
+    }
+  ]
+}

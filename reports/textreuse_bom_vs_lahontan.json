@@ -1,0 +1,90 @@
+{
+  "texts": [
+    "book_of_mormon",
+    "lahontan_new_voyages"
+  ],
+  "n": 6,
+  "jaccard_similarity": 6.205468710334362e-05,
+  "top_overlaps": [
+    [
+      "if it had not been for",
+      1.0483498972617101e-05
+    ],
+    [
+      "fall into the hands of the",
+      7.395765924008505e-06
+    ],
+    [
+      "out of the hands of the",
+      3.6978829620042525e-06
+    ],
+    [
+      "all the inhabitants of the earth",
+      3.6978829620042525e-06
+    ],
+    [
+      "into the hands of their enemies",
+      3.6978829620042525e-06
+    ],
+    [
+      "upon the face of the earth",
+      3.6978829620042525e-06
+    ],
+    [
+      "if it were not for the",
+      3.6978829620042525e-06
+    ],
+    [
+      "to hear the word of god",
+      3.6978829620042525e-06
+    ],
+    [
+      "of their gold and their silver",
+      3.6978829620042525e-06
+    ],
+    [
+      "people upon the face of the",
+      3.6978829620042525e-06
+    ],
+    [
+      "good for nothing but to be",
+      3.6978829620042525e-06
+    ],
+    [
+      "fallen into the hands of the",
+      3.6978829620042525e-06
+    ],
+    [
+      "all the nations of the earth",
+      3.4944996575390336e-06
+    ],
+    [
+      "the four corners of the earth",
+      3.4944996575390336e-06
+    ],
+    [
+      "you in the name of the",
+      3.4944996575390336e-06
+    ],
+    [
+      "in the twinkling of an eye",
+      3.4944996575390336e-06
+    ],
+    [
+      "i do not believe that there",
+      3.4944996575390336e-06
+    ],
+    [
+      "coming of the son of god",
+      3.4944996575390336e-06
+    ],
+    [
+      "and if it had not been",
+      3.4944996575390336e-06
+    ],
+    [
+      "i do not know but this",
+      3.4944996575390336e-06
+    ]
+  ]
+}

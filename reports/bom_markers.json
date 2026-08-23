@@ -1,0 +1,33 @@
+{
+  "text": "book_of_mormon",
+  "profile": {
+    "total_words": 286169,
+    "unique_words": 6004,
+    "ttr": 0.020980609360203236,
+    "hapax": 1861,
+    "hapax_ratio": 0.006503150236398771,
+    "avg_word_len": 4.045515062777589,
+    "function_word_ratio": 0.46350932490940666,
+    "emodern_density": 0.04909686234358019,
+    "liahona_terms": {
+      "ball": 10,
+      "liahona": 1,
+      "pointers": 1,
+      "compass": 7,
+      "director": 3
+    }
+  },
+  "marker_density": {
+    "single_hits": 11524,
+    "phrase_hits": 2526,
+    "total": 286169,
+    "density": 0.04909686234358019
+  },
+  "liahona_terms": {
+    "ball": 10,
+    "liahona": 1,
+    "pointers": 1,
+    "compass": 7,
+    "director": 3
+  }
+}
