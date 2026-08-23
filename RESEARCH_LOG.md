@@ -263,6 +263,206 @@ work, not a conclusion.
 
 ---
 
+## 2026-08-23 (cont'd) — Dartmouth/classics, travel-narrative genre, tribe names, and a close narrative reading
+
+Four more angles requested: (1) the Dartmouth/Greek-classics/Aeneid connection
+claimed in Nielsen's transmission chain, (2) whether general travel-narrative
+genre conventions (the "zeitgeist" argument) plausibly shaped the Book of
+Mormon, (3) whether Lahontan's invented "Long River" nations resemble Book of
+Mormon tribal names, and (4) a close, skeptical read of both full texts for
+story-level parallels beyond simple word/phrase overlap. All four were run —
+three as background research passes, the tribe-name comparison and the exact
+verse citations directly via this toolkit.
+
+### Dartmouth, Spalding's classical education, and the Kircher claim
+
+Solomon Spalding attended Dartmouth 1782–1785 (A.M. 1785), during exactly the
+tenure of **John Smith** (1778–1809), Dartmouth's first professor, who
+informally styled himself "Professor of the Learned Languages" / "Professor
+of Latin, Greek, Hebrew, and other Oriental Languages." So Nielsen's
+"Dartmouth Professor of Oriental Languages" is not a fabricated role — a real
+person with a matching informal title did exist, overlapping Spalding's
+attendance. **But the Kircher link specifically is directly rebutted**: Blake
+Ostler's Interpreter Foundation review reports Dartmouth's library catalogues
+(checked 1775 and 1825, bracketing Smith's entire career) held **no Kircher
+works at all**, and separately notes John Smith's own writings state Native
+Americans are *not* descendants of Jews — the opposite of the premise the
+Book of Mormon (and Nielsen's chain) requires him to have transmitted. Ostler
+also disputes Nielsen's framing of Spalding's A.M. as "graduate-level
+research": in this period an A.M. was "conferred in course... on payment of
+$5," a pro forma credential, not earned research. (Note: Ostler/Interpreter
+is an LDS-apologetics source with an institutional stake in this outcome, but
+the specific factual claims — library catalogue contents, the nature of the
+degree, John Smith's own stated views — are checkable historical claims, not
+just rhetorical dismissal; Nielsen's book is self-published, not
+peer-reviewed, so neither source here is institutionally neutral.)
+
+**Was Virgil's Aeneid actually on Spalding's syllabus?** Dartmouth's
+curriculum in this era was intensely classical (an 1786 commencement featured
+"oration and debate in Greek, Latin, and Hebrew"), and Virgil was a standard
+canonical author across essentially every Anglo-American college of the
+period — but no primary-source 1780s Dartmouth reading list confirming Virgil
+by name was found. Independently, an 1839 statement attributed to Spalding's
+widow (Matilda Davison, a cornerstone document of the Spalding-Rigdon theory
+generally, but itself contested — critics doubt a 70-year-old widow authored
+its "argumentative style" unassisted) claims Spalding "could probably quote
+passages in both Homer and Virgil from memory." **Bottom line: Spalding's
+familiarity with the Aeneid is best explained as an ordinary feature of any
+educated 1785 Dartmouth graduate's classical training, not evidence requiring
+Nielsen's Kircher-transmission chain.** A separate, better-evidenced and more
+interesting thread: period commentary on Spalding's own "Manuscript
+Found"/"Manuscript Story" explicitly frames his ambition in classical-epic
+terms — wanting America's "mound builders" to have their own origin epic, "no
+Iroquois 'Iliad,' no Delaware 'Aeneid.'" If classical-epic influence on the
+Spalding-Rigdon theory is worth pursuing further, this — Spalding's own
+self-conscious epic ambition — is a more direct and better-sourced link than
+anything running through Nielsen's Kircher chain.
+
+### Travel-narrative genre as a "zeitgeist" influence
+
+Checked whether existing BoM "zeitgeist" scholarship (Eran Shalev, William
+Davis — both cited in the user's dossier) already covers the travel-narrative
+angle specifically. **They don't**: Shalev's argument is about American
+"pseudo-biblicism" (political writing in KJV cadence), and Davis's is about
+oral sermon/oratory culture — adjacent genres, not travel/exploration
+literature. This means the travel-narrative-genre angle is a **genuine gap in
+the secondary literature**, not duplicated work, though also not yet backed
+by any published academic argument.
+
+A material correction to the availability picture: **Jonathan Carver's
+*Travels through the Interior Parts of North America* (1778)**, not
+Lahontan, is the travel narrative actually documented as being in wide
+circulation through Joseph Smith's 1805–1830 formative period (23+ editions,
+still credible/popular until the 1830s–40s). Lahontan's *New Voyages* is
+better understood as an earlier-18th-century phenomenon — its ~25 editions
+were mostly complete by 1763, and the critical edition this repo's corpus now
+uses (Thwaites, 1905) is itself a 20th-century scholarly artifact, not
+something Smith could have read directly. **However, Carver's own book
+borrowed material directly from Lahontan** (a funeral-oration passage), so
+Lahontan content plausibly reached the early Republic *secondhand, via
+Carver* — a real, if indirect, availability pathway worth weighing against
+the direct-availability argument already in this log. No itemized catalogue
+of the Manchester library confirms either book's specific presence there
+(Robert Paul's 1982 study covers the library's existence/membership question,
+not a full holdings list).
+
+The closest existing methodological precedent for a broad "ambient culture,
+not one direct source" argument is Rick Grunder's *Mormon Parallels: A
+Bibliographic Source* (~2,300 pages cataloguing possible cultural antecedents
+without arguing for any single direct source) — worth reading as a model for
+how to frame ambient-influence claims rigorously rather than as isolated
+"gotcha" parallels.
+
+### Tribe-name comparison: Lahontan's invented nations vs. Book of Mormon tribes
+
+Notably, Thwaites's own 1905 editorial introduction to Lahontan states that
+later expeditions found "no traces of the Eokoros, Esanapes, Gnacsitares, and
+Mozeemleks of Lahontan," and that "scepticism... succeeded to faith in the
+author's verity" — i.e., **Lahontan's own editors treat these Long River
+nations as likely fabrications**, not real ethnographic reporting. Comparing
+them anyway (both being invented ethnonyms, one Nephite-tradition and one
+Lahontan's own): ran all pairs of Lahontan's five named nations (Eokoros,
+Esanapes, Gnacsitares, Mozeemlek, Tahuglauk) against all fourteen Book of
+Mormon "-ites" group names through `namesim.py`. **Clean null**: zero
+Soundex, NYSIIS, or Metaphone matches across all 70 pairs; the modest
+composite scores on the top-ranked pairs (Gnacsitares/Amlicites,
+Gnacsitares/Jacobites, both 0.245) are driven entirely by the shared "-ites"
+suffix — itself a generic King-James-style ethnonym convention (Israelites,
+Hittites), not a distinctive resemblance. Two of the seventy pairs technically
+cleared the z≥2.0 "distinguishable from chance" bar
+(Gnacsitares/Amlicites, Gnacsitares/Jacobites, z≈2.10), but at that volume of
+pairwise comparisons (70), two candidates clearing a z=2 threshold by chance
+alone is expected, not notable — a textbook illustration of why
+`namesim.py`'s own docstring warns about the multiple-comparisons problem.
+**No genuinely distinctive shared tribal name was found.**
+
+### Cardinal-direction seas: confirmed in the Book of Mormon, absent from Lahontan's own text
+
+The Book of Mormon does use a "sea east / sea west / sea north / sea south"
+naming convention, concentrated in Alma–Helaman. Exact citations (via
+`segmenter.py`):
+
+> **Alma 22:27** — "...which ran from the **sea east** even to the **sea
+> west**, and round about on the borders of the seashore..."
+
+> **Helaman 3:8** — "...from the **sea south** to the **sea north**, from the
+> **sea west** to the **sea east**." (the one verse naming all four)
+
+> **Helaman 11:20** — "...from the **sea west** to the **sea east**."
+
+The user's existing dossier already tested a "Sea of the West" thread against
+*period maps* and honestly conceded the geometry is "structurally inverse, not
+a match" (see below) — that work stands, not repeated here. What hadn't been
+checked: **Lahontan's own text**, independent of period cartography. Result:
+a **clean negative**. "West Sea," "South Sea," "North Sea," "East Sea" —
+zero occurrences anywhere in either volume of Lahontan. The one
+superficially-similar passage (the Tahuglauk's inland salt lake, "a fort of
+Sea") uses only adverbial directional description ("the great River... runs
+all along Westward... the falt Lake... ftretching a great way to the
+Southward") — describing which way things run, not naming the sea itself as
+a fixed cardinal-direction proper noun the way the Book of Mormon does.
+**Lahontan does not use a cardinal-direction sea-naming convention.**
+
+### Close narrative reading: story-level parallels beyond word overlap
+
+A full close read (not just the n-gram tool, which already found no shared
+phrasing) for episode-level and motif-level parallels, sampling broadly
+across both complete texts:
+
+- **"Curious workmanship"** (the Book of Mormon's recurring formula for the
+  Liahona, Nephi's ship, and Jaredite weapons) has **no lexical equivalent**
+  in Lahontan — "curious" there always means "interesting" (an authorial
+  aside about the narrative), never paired with "workmanship." Confirms the
+  n-gram null result at the phrase level specifically.
+- **Ancient ruins / lost-civilization discovery** (Limhi's expedition finding
+  the Jaredite ruins, Mosiah 8:7–8) — **clean null** in Lahontan: no hits for
+  "ruins," "ancient fortification," or any discovered-vanished-people episode
+  anywhere in the text.
+- **Giants** — worth flagging as a correction to a common folk assumption:
+  the word "giant" occurs **zero times** in the actual 1830 Book of Mormon
+  text. There is no giants motif to even compare.
+- **Civil war / total self-annihilation** (the Jaredite ending in Ether, one
+  lineage destroying itself down to a sole survivor) is **structurally
+  different in kind** from Lahontan's Long River wars, which are conflicts
+  *between* separate, unrelated nations, none ending in extinction (the
+  18-year Tahuglauk-Gnacsitares war is explicitly heading toward a
+  prisoner-exchange peace). A real negative finding in a category that looked
+  promising going in.
+- **A genuine shared trope, but a generic one**: both texts frame a
+  "civilized" nation (walled cities, centralized/despotic government, skilled
+  metalworking) looking down on a "wandering"/"savage" neighbor — Lahontan's
+  Tahuglauk calling the Gnacsitares mere "Beasts" parallels the Book of
+  Mormon's Nephites repeatedly calling Lamanites "loathsome," "idle," seekers
+  of "beasts of prey" (Enos 1:20, 2 Nephi 5:24, Jacob 3:5). This is real but
+  **not distinctive** — it's the single most common trope in the entire
+  18th–19th century Euro-American ethnographic-travel genre (Jesuit
+  Relations, Carver, Bartram, Spanish chroniclers all use the same
+  civility-gradient framing), and the specific named nations show no
+  functional correspondence beyond it (no Lahontan nation maps onto the
+  Nephites' literacy/record-keeping/temple-building role, and nothing in
+  Lahontan resembles the Jaredites' ocean-crossing-barge migration).
+- **The compass/watch-moved-by-spirits passage remains the single most
+  specific parallel in the whole corpus** — confirmed independently in this
+  close read as more specific than anything else found — but it stays an
+  isolated lexical/conceptual data point: no surrounding narrative episode in
+  Lahontan (a spirit-guided instrument used on a family's wilderness/ocean
+  journey) parallels the Liahona's actual narrative role.
+
+**Overall verdict for this round**: the close reading and the tribe-name
+comparison both return honest negatives across most categories tested, which
+narrows rather than widens the case — exactly what a skeptical process should
+do. Nothing found here elevates the Lahontan/Liahona hypothesis beyond where
+it already stood (one specific, real, tonally-mismatched conceptual parallel,
+no corroborating narrative or onomastic support around it). The Dartmouth/
+Kircher chain specifically is actively rebutted on its own terms, independent
+of anything in this repo. The travel-narrative-genre "zeitgeist" question
+remains a genuinely open, unclaimed research angle if the user wants to
+pursue it further, with Carver (not Lahontan) as the better-evidenced
+direct-availability candidate and Lahontan's route more likely secondhand via
+Carver.
+
+---
+
 ## Lars Nielsen / "Kircherism" summary (background research, 2026-08-23)
 
 Lars Nielsen's *How the Book of Mormon Came to Pass: The Second Greatest
