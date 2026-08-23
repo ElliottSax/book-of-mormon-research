@@ -559,32 +559,70 @@ every available measure:
   generally that their co-occurrence isn't diagnostic — precisely the
   shared-genre-convention risk this whole project is built to catch.
 
-**The twin-doves/twin-spindles detail specifically does not hold up.** Read
+**The twin-doves/twin-spindles detail, and a subsequent methodological
+back-and-forth with the user that meaningfully sharpened the analysis.** Read
 directly (Dryden, Book VI, ~line 5910): Venus sends "two doves... his
 mother's birds" to lead Aeneas through a forest to the Golden Bough — a
-one-time errand to a fixed, already-existing object. Two problems, both
-fairly decisive: (1) **paired doves are generic, conventional iconography
-for Venus across all of Greco-Roman art and literature** (her standard
-dove-drawn chariot, going back at least to the Homeric Hymn to Aphrodite) —
-not a bespoke "twin guide" invented for this scene, which undercuts the idea
-that "two" is a meaningful, borrowable signal at all; (2) **far more
-parsimonious explanations for the Liahona's unexplained second spindle
-already exist inside the Book of Mormon's own tradition** — the Urim and
-Thummim (Exodus 28:30) is a documented biblical *paired* sacred instrument
-already explicitly fused with the Liahona in LDS discourse itself (D&C 17
-calls the Liahona the "miraculous directors," and Joseph Smith's own usage
-grouped the interpreters, seer stones, and Liahona under one "Urim and
-Thummim" umbrella) — no detour through a Latin epic required. A second,
-independent mundane explanation: 18th/19th-century compasses commonly paired
-a fixed magnetic needle with a separate declination-adjustment pointer —
-ordinary period instrument design, contemporary with the Book of Mormon's
-1830 publication (used on Lewis and Clark's own expedition). No LDS or
-critical source searched — including combined searches for "Liahona" with
-"doves" or "Golden Bough" — has proposed the Aeneid connection before; it's
-a genuinely original idea, but doesn't survive being weighed against its
-alternatives. **Verdict: suggestive on first encounter, doesn't hold up
-under scrutiny** — a clean example of the kind of resemblance this project's
-skepticism is specifically designed to catch and set aside.
+one-time errand to a fixed, already-existing object. Initial assessment
+raised two objections; user pushback on both is recorded here since it
+changed the reasoning, not just the tone:
+
+1. *"No scholar has proposed this connection before."* User correctly
+   pushed back: novelty is a **neutral** fact about a hypothesis, not
+   evidence against it. This was raised as one data point without being
+   clearly separated from the substantive objections, which was an error —
+   corrected here explicitly. A true observation can go unnoticed
+   indefinitely; absence of prior proposal counts for nothing either way.
+
+2. *"Urim and Thummim is a more parsimonious internal explanation."* User
+   correctly objected that citing D&C 17 and later LDS discourse (which
+   explicitly names the Liahona a form of "Urim and Thummim") is circular
+   for explaining the text's own composition — that connection was made by
+   later readers interpreting an already-finished 1830 text, not available
+   to whoever composed "two spindles" in the first place, so it can't
+   explain the detail's origin. **Correct, and it stands**: any
+   explanation for a compositional detail needs to predate the text. What
+   survives, on narrower footing: the *biblical* Urim and Thummim (Exodus
+   28:30, Leviticus 8:8) does genuinely predate 1830 and was available to
+   any KJV-steeped author independent of any later LDS gloss — but even
+   that is a looser match than first stated, since biblical scholarship
+   itself doesn't agree on what the Urim and Thummim physically were or how
+   they functioned (two stones? lots? a binary yes/no mechanism?). It's a
+   real pre-existing candidate, just a vaguer one than "paired sacred
+   instrument" made it sound.
+
+3. *"Virgil reaching for an existing [dove/guide] theme doesn't detract from
+   the theory — he used it, and it became an archetype for later stories."*
+   This is a sharper version of the original claim than "two doves = a
+   borrowed detail," worth engaging with directly rather than restating the
+   iconography objection. It separates the *iconographic* fact (paired
+   doves are stock Venus imagery) from the *narrative function* Virgil gave
+   them (a divine guide leading the hero to a fated object) — and argues
+   the function, not the birds, is what could have propagated as a literary
+   archetype. Response: "a divine guide leads the hero to what he needs" is
+   an extremely old, cross-cultural storytelling motif, independently
+   attested across world mythology well before and after Virgil — so
+   Virgil's telling being *specific* and Virgil's telling being *the
+   origin* of a later-echoed archetype are different claims, and only the
+   second supports a transmission argument. Establishing the second would
+   need either (a) direct evidence Aeneid Book VI specifically (not "the
+   Aeneid" generally) was something Spalding's or Smith's environment
+   engaged with at composition time, or (b) evidence that *twoness itself*
+   — not just "a guide exists" — is part of whatever later tradition is
+   being invoked, rather than an incidental detail of this one telling.
+   Neither exists yet. **This remains the standing objection** — not
+   resolved by the user's reframing, but the reframing was fair and the
+   objection is now stated more precisely as a result.
+
+**Net effect of this exchange**: point 1 fully conceded (asymmetric error
+corrected); point 2 substantially conceded (late-tradition version dropped,
+narrower biblical version kept but weakened); point 3 engaged more
+rigorously and still stands, but on sharper terms than before. **Current
+verdict, updated**: the twin-doves/twin-spindles detail remains suggestive
+on first encounter and unresolved rather than cleanly dismissed — the
+generic-iconography objection is real but narrower than originally framed,
+and what would actually settle it (Book-VI-specific evidence of engagement,
+or a "twoness" element in the propagated archetype) hasn't been checked yet.
 
 ---
 
