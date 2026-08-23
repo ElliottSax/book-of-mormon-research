@@ -1040,6 +1040,81 @@ findings. Treat it as the next layer of work, not settled.
 
 ---
 
+## 2026-08-23 (cont'd) — Three new dossier threads tested: Irish material, Zosimos, and Strabo's "Moron"
+
+Following the "what threads should we pull on" question, three parallel
+research passes plus a self-directed conjunction audit:
+
+**Irish Lia Fáil / Fenian Cycle** (a candidate Liahona etymology from the
+user's dossier, not previously tested): clean negative on every count. The
+Lia Fáil is a stationary coronation-legitimacy stone that roars once per
+succession event — not a portable, continuously-consulted directional
+instrument; the dossier's own comparison table already conceded this
+mismatch. The "Treasure Bag of Lia" turns out to belong to **Liath
+Luachra, the antagonist who killed Fionn mac Cumhaill's father** — not a
+guardian figure — and the specific narrative (the *Macgnímartha Finn*)
+wasn't translated into English until 1859, nearly three decades after the
+Book of Mormon. The dossier's own "Lia-" phonetic table also conflates two
+unrelated Irish words (*lia* "stone" vs. *liath* "grey") that only look
+alike once anglicized. Not supported on functional, narrative, or
+accessibility grounds.
+
+**Zosimos** (dossier Chapter 9): the dossier's own chapter content reveals
+it means a different Zosimos than the alchemist — the pseudepigraphal
+"Narrative of Zosimus"/History of the Rechabites, a righteous-remnant
+migration story thematically closer to the Anti-Nephi-Lehies than to any
+brass-guidance object. Not translated into English until 1893. Clean
+accessibility negative, and not really a Liahona parallel at all despite
+the chapter's placement. The alchemist Zosimos's actual surviving writings
+(the *Cheirokmeta*, the *Visions*) contain lab apparatus and symbolic
+dream-figures, nothing resembling a guidance instrument.
+
+**Strabo's "Moron"** (tested at the user's suggestion, correcting an
+initial misattribution to Xenophon's Anabasis — verified directly against
+the full text that no place called "Moron" appears there, before the user
+correctly redirected to Strabo): a real ancient place, confirmed via
+Strabo's *Geography* III.3.1 — "Moron, a city happily situated on a
+mountain near the river... this city Brutus, surnamed Callaicus, used as
+a base of operations when he warred against the Lusitanians and brought
+these people under subjection." **This is the most decisively negative
+result of the three, and decisive in an unusual way**: it's not just that
+external evidence is thin (though it is — no English translation of
+Strabo existed until 1854, 24 years after the Book of Mormon; no
+curriculum record; only the *name* Strabo, not this content, is confirmed
+circulating via Jedidiah Morse's 1793 geography textbook). It's that **the
+Book of Mormon gives its own explicit etymology for "Mormon," twice**:
+Mosiah 18:4 (the land is named by King Noah, a peaceful spot with "a
+fountain of pure water" where Alma hides from persecution and later
+baptizes converts) and 3 Nephi 5:12 (Mormon states directly: "I am called
+Mormon, being called after the land of Mormon, the land in which Alma did
+establish the church"). That's a peaceful baptismal refuge, explicitly
+stated as the name's origin — the opposite valence of Strabo's Moron, a
+fortified military base for subjugating a conquered people. The text's own
+stated etymology actively points away from this parallel, not just fails
+to support it.
+
+**Base-rate note carried over from the conjunction audit**: "Moron" vs.
+"Mormon" is a one-letter difference, but per the benchmark established
+above (Messiah/Mosiah scores 0.927, Melek/Mulek 0.936, both confirmed
+unrelated), raw orthographic closeness in a text this size isn't
+informative on its own — and here it's moot regardless, since the
+functional case is contradicted by the primary source directly.
+
+**Also surfaced during the dossier-chapter scan** (not yet acted on, listed
+for future work below): the dossier's real developed content lives in a
+26-part "Research Handoff Dossier" document distinct from its outline-only
+Chapter 1-18 structure. Its own stated verdict (Part XVII) is "no slam
+dunk exists in either direction" — the authoritative confidence statement
+for this whole research thread, superseding the empty Chapter 16/17 stubs.
+It also contains a specific chronological problem for the classic
+Spalding-Rigdon *direct-manuscript-handoff* theory: the printing firm
+"Patterson & Lambdin" didn't exist until 1818 (two years after Spalding's
+death), and Rigdon's documented Pittsburgh residence didn't begin until
+1822 — though the dossier itself notes this doesn't touch the looser
+"ambient Pittsburgh milieu" version of the theory it separately relies on.
+
+---
+
 ## Future work / open threads
 
 - **Acquire the material still missing**: the user's dossier's own next
@@ -1073,3 +1148,53 @@ findings. Treat it as the next layer of work, not settled.
 - **The "Le Parasite Mormon" (1650)** French satire text itself was not
   acquired (likely requires Gallica/BnF archives) — the claim stays in
   `parody_hypotheses.py` with `source_acquired: false`.
+- **Jedidiah Morse's *American Universal Geography*** (1789, the standard
+  American schoolbook geography, revised through the 1820s) — the dossier
+  flags this as its own single highest-value unchecked task: a personal-
+  access-plausible schoolbook (unlike elite library holdings) that has
+  never been searched for "Lahontan" or "Sea of the West" by name. Full
+  text is on archive.org across multiple editions; this session confirmed
+  it at least cites Strabo by name in its front matter, but the Lahontan/
+  Sea-of-the-West question specifically remains unchecked.
+- **The Great Lakes cartography synthesis** (dossier Part XXV, not yet
+  independently tested): Lahontan's actual 1715 "Carte Generale de Canada"
+  is independently praised by cartography historians as genuinely
+  accurate — distinct from his fictional Long River material — and maps
+  onto an existing "Great Lakes model" of Book of Mormon geography (Niagara
+  Peninsula as narrow neck, Erie/Huron/Cayuga/Georgian Bay as the four
+  seas). Doesn't require any of Lahontan's fictional content to be true,
+  only that accurate Great Lakes cartography was circulating in a
+  tradition he helped establish — flagged by the dossier as its own most
+  promising unexplored cartographic thread.
+- **Sea North/Sea South specifically** (dossier Parts XX/XXIV, sharper than
+  this project's existing cardinal-direction work): notes Hebrew *yam*
+  ("sea") also idiomatically means "west/seaward," giving "sea west" (and
+  loosely "sea east") a plausible non-Lahontan biblical explanation baked
+  into the text's own claimed linguistic ancestry — which narrows the
+  genuinely unexplained residue specifically to "sea north" and "sea
+  south," for which no equivalent Hebrew shortcut exists. Also separately
+  confirms (Part XXIV) that the historical "Sea of the West" cartographic
+  concept was consistently a water strait connecting two seas — the
+  structural inverse of the Book of Mormon's land neck separating two seas
+  — an honest limitation the dossier states plainly rather than rounding
+  past.
+- **Don Bradley's Liahona etymology proposal** — named in the dossier
+  (Chapter 2) as a specific rival etymological theory alongside Hugh
+  Nibley's belomancy (arrow-divination) argument, but never engaged
+  anywhere in the dossier itself. A concrete, checkable gap: find and
+  evaluate Bradley's actual published argument before weighing any
+  external-source etymology against it.
+- **The Pittsburgh chronology finding** (surfaced during the dossier scan,
+  not yet independently verified): "Patterson & Lambdin" as a printing
+  firm didn't exist until January 1818 (two years after Spalding's 1816
+  death), and Rigdon's documented Pittsburgh residence didn't begin until
+  1822 — a specific, dated chronological problem for the classic *direct
+  manuscript handoff* version of the Spalding-Rigdon theory. Worth
+  independently checking these dates before relying on them, since they
+  came from the dossier's own closing section, not yet re-verified here.
+- **The "Alma son of Nemed" claim**: the dossier itself flags an unresolved
+  contradiction — a MormonThink claim that one of Nemed's four sons in the
+  *Lebor Gabála Érenn* was named "Alma," versus standard scholarly sources
+  listing them as Starn, Iarbonel, Annind, and Fergus Red-Side, with no
+  "Alma" among them. Flagged as needing primary-source verification, never
+  resolved in the dossier.
