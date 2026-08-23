@@ -463,6 +463,131 @@ Carver.
 
 ---
 
+## 2026-08-23 (cont'd) — Carver's specific borrowings, Lahontan's maps, and the Aeneid parallel tested rigorously
+
+Four follow-up threads, prompted by specific user questions: exactly what did
+Carver copy from Lahontan; does Lahontan's own MAP (not just his prose,
+already checked and found clean) use cardinal-direction sea-naming; and a
+rigorous test of the Aeneid/Book-of-Mormon parallel the user found "very
+striking" — including whether Aeneid's "twin doves" episode plausibly
+explains the Liahona's unexplained second spindle.
+
+### What Carver actually borrowed from Lahontan — and why it doesn't help the Liahona thread
+
+Confirmed via Edward Gaylord Bourne's 1906 *American Historical Review*
+study (the authoritative source on Carver's plagiarism, independently
+corroborated: Friedrich Schiller used the same Carver passage — the funeral
+oration for a deceased chief — as the direct source for his 1798 poem
+"Nadowessiers Totenlied," establishing the passage's existence and location
+from a completely separate literary-history angle). Carver's borrowing from
+Lahontan is real but narrow: it's confined to **one chapter of ethnographic
+"manners and customs" material** — specifically a funeral oration, traced to
+Lahontan Vol. II, pp. 51–52 — plus likely more of that same section
+(mourning customs, war songs; Carver also borrowed from Hennepin, Charlevoix,
+and Adair in this part of his book, and Bourne suspected much of it was
+compiled by Carver's London editor rather than Carver himself).
+
+**Critically, none of the three specific Lahontan threads this research
+cares about are among the borrowed material**: the compass/watch-moved-by-
+spirits passage is from a different part of Lahontan's Vol. II (a July 1695
+letter) with no connection to the funeral-oration material traced to Carver;
+the invented Long River nations (Gnacsitares, Mozeemlek, Tahuglauk) belong to
+a geographic-fantasy narrative Bourne's scholarship never connects to
+Carver's borrowings; and while Carver's book *does* contain a famous
+cardinal-direction "River of the West" passage (the first print use of the
+name "Oregon"), that traces independently to Robert Rogers, Carver's
+commanding officer — not to Lahontan. **Conclusion: Carver is real,
+documented proof that Lahontan's book physically reached later readers
+through an intermediary — but not a transmission path for any of the
+specific ideas this research is actually testing.** A different pathway
+would be needed if the direct-availability argument is to be strengthened
+further.
+
+### Lahontan's maps and "Mer de l'Ouest": real but indirect, and the exact label is unresolved (not a clean null)
+
+Lahontan's two 1703 map plates (the Long River map and the "map the
+Gnacsitares drew," which Thwaites's own introduction already told us was
+treated with scepticism by contemporaries) were influential — copied by
+Delisle, Moll, Senex, Popple, and Chatelain, shaping cartography of the
+upper Mississippi/Plains for decades. **But the "Mer de l'Ouest" concept
+itself predates Lahontan's book by several years** (Guillaume Delisle's
+manuscript maps, c. 1695–1700; first print appearance via Nolin, c. 1700,
+which triggered a plagiarism suit Delisle won in 1706) — it was not
+Lahontan's coinage, and cartographic historians (Lagarde 1989; McGuirk)
+treat Lahontan's salt-lake material as one of several fictitious inputs
+(alongside the fabricated de Fonte voyage) later merged into the
+already-existing tradition by other cartographers, not as its origin.
+
+**On the specific question — does Lahontan's own map label a sea with a
+cardinal direction — this could not be confirmed either way**, unlike the
+prose search (which was a clean, confirmed null). Every primary-source route
+to a verbatim transcription of Lahontan's own engraved map legend was
+blocked in this research pass (LOC, McMaster, and raremaps.com all returned
+access errors). The closest thing found — a *derivative* map (Senex, 1710,
+copying Lahontan's geography but not Lahontan's own plate) labels the same
+feature "Salt Lake **east** of the Country of the Mozeemleck's" — relational
+phrasing, not a proper name, and the wrong direction besides. **This should
+be treated as an open item, not a resolved negative**: someone would need to
+examine an actual high-resolution scan of Lahontan's own 1703 plates (Library
+of Congress g4050.ct000673, or Gallica/BnF, or McGill's Lande Collection —
+already used for this project's Vol. II text) to settle it. If the user's
+visual memory of a cardinal-direction-labeled Lahontan map is correct, it's
+more likely to be one of the many *derivative* maps built on his geography
+than his own original plate — worth checking Delisle's, Moll's, or Senex's
+maps specifically if pursued further.
+
+### The Aeneid parallel, tested rigorously — weaker than it first looks, for specific reasons
+
+Checked directly against `texts/aeneid.txt` (Dryden) and existing
+scholarship. The individual story beats the user raised (a doomed city, a
+hero fleeing with a sacred/legitimizing object, founding a new civilization
+abroad) are real correspondences — but weighed against the Book of Mormon's
+own **already-established Exodus parallel**, they come out clearly weaker on
+every available measure:
+
+- The Exodus parallel has an **explicit textual anchor**: Nephi has his
+  brothers exhorted to "be strong like unto Moses... our fathers came
+  through, out of captivity, on dry ground" (1 Nephi 4:2) — the text names
+  its own model. Nothing in 1 Nephi gestures at Troy, Aeneas, or Rome.
+- The Exodus parallel has **real, substantial scholarship** behind it (Tate,
+  Szink, Goff, Reynolds — roughly 21 identified correspondence points). The
+  Aeneid comparison exists in exactly one place: a 2017 non-scholarly blog
+  post. No classicist or Mormon-studies scholar, LDS or critical, has
+  published a developed treatment.
+- The shared beats (city falls, hero flees with a sacred object, founds a
+  new nation) are common enough across foundation-narrative literature
+  generally that their co-occurrence isn't diagnostic — precisely the
+  shared-genre-convention risk this whole project is built to catch.
+
+**The twin-doves/twin-spindles detail specifically does not hold up.** Read
+directly (Dryden, Book VI, ~line 5910): Venus sends "two doves... his
+mother's birds" to lead Aeneas through a forest to the Golden Bough — a
+one-time errand to a fixed, already-existing object. Two problems, both
+fairly decisive: (1) **paired doves are generic, conventional iconography
+for Venus across all of Greco-Roman art and literature** (her standard
+dove-drawn chariot, going back at least to the Homeric Hymn to Aphrodite) —
+not a bespoke "twin guide" invented for this scene, which undercuts the idea
+that "two" is a meaningful, borrowable signal at all; (2) **far more
+parsimonious explanations for the Liahona's unexplained second spindle
+already exist inside the Book of Mormon's own tradition** — the Urim and
+Thummim (Exodus 28:30) is a documented biblical *paired* sacred instrument
+already explicitly fused with the Liahona in LDS discourse itself (D&C 17
+calls the Liahona the "miraculous directors," and Joseph Smith's own usage
+grouped the interpreters, seer stones, and Liahona under one "Urim and
+Thummim" umbrella) — no detour through a Latin epic required. A second,
+independent mundane explanation: 18th/19th-century compasses commonly paired
+a fixed magnetic needle with a separate declination-adjustment pointer —
+ordinary period instrument design, contemporary with the Book of Mormon's
+1830 publication (used on Lewis and Clark's own expedition). No LDS or
+critical source searched — including combined searches for "Liahona" with
+"doves" or "Golden Bough" — has proposed the Aeneid connection before; it's
+a genuinely original idea, but doesn't survive being weighed against its
+alternatives. **Verdict: suggestive on first encounter, doesn't hold up
+under scrutiny** — a clean example of the kind of resemblance this project's
+skepticism is specifically designed to catch and set aside.
+
+---
+
 ## Lars Nielsen / "Kircherism" summary (background research, 2026-08-23)
 
 Lars Nielsen's *How the Book of Mormon Came to Pass: The Second Greatest
