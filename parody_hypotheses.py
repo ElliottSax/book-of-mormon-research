@@ -134,6 +134,72 @@ HYPOTHESES = [
             "writeup and namesim.py's baseline-checked orthographic score."
         ),
     },
+    {
+        "id": "virgil_brass_fly_aeneid_liahona",
+        "claim": (
+            "The user proposed Virgil's Aeneid Book VI 'twin doves' episode "
+            "(Venus's birds guiding Aeneas to the Golden Bough) as a "
+            "candidate explanation for the Liahona's unexplained second "
+            "spindle (1 Nephi 16:10 describes 'two spindles' but only ever "
+            "shows one functioning). Separately, confirmed a real reference "
+            "to the medieval 'Virgil the Magician' legend (Virgil's brass "
+            "fly, a talisman said to repel flies from Naples) directly in "
+            "Lahontan's own text (~line 28435 of "
+            "texts/lahontan_new_voyages.txt), attributed by Lahontan to "
+            "'Gervais' -- identified as Gervase of Tilbury, author of Otia "
+            "Imperialia (c. 1210-14)."
+        ),
+        "name_a": "N/A",
+        "name_b": "N/A",
+        "source_citation": (
+            "Lahontan, New Voyages, Vol. II (~line 28435 of the corpus "
+            "text). Gervais/Gervase of Tilbury identification confirmed via "
+            "Jacques Gaffarel, Curiositez inouyes (1629 ed.), "
+            "fr.wikisource.org. Medieval legend cycle: John of Salisbury's "
+            "Policraticus (1159, earliest source for the fly); Conrad of "
+            "Querfurt (c. 1196); Domenico Comparetti, Vergil in the Middle "
+            "Ages (1872, standard reference, archive.org). Kircher search: "
+            "no connection found in Kircher's published works (Mundus "
+            "Subterraneus, Oedipus Aegyptiacus, Phonurgia Nova checked) "
+            "despite thematic proximity (Kircher visited Naples/Vesuvius "
+            "1638); Kircher's own brazen-head-genre engagement (Phonurgia "
+            "Nova, 1673) is attributed to Albertus Magnus and Egyptian "
+            "statues, not Virgil."
+        ),
+        "source_acquired": True,
+        "note": (
+            "Two-part verdict, reached after direct back-and-forth with the "
+            "user that sharpened the reasoning (see RESEARCH_LOG.md for the "
+            "full exchange, not just the conclusion): (1) the Aeneid "
+            "doves/Liahona spindles parallel remains UNRESOLVED, not "
+            "dismissed -- the 'paired doves are generic Venus iconography' "
+            "objection stands but is narrower than first framed (it "
+            "separates the iconographic convention from the specific "
+            "narrative FUNCTION Virgil gave it, and doesn't rule out that "
+            "function propagating as an archetype); what would resolve it "
+            "is evidence of Book-VI-specific engagement at composition "
+            "time, or a 'twoness' element in whatever later archetype is "
+            "being invoked -- neither exists yet. Citing D&C 17/later LDS "
+            "'Urim and Thummim' tradition as an alternative explanation was "
+            "WITHDRAWN as circular (it postdates the 1830 text); the "
+            "biblical Urim and Thummim itself (Exodus 28:30) remains a "
+            "valid but vaguer pre-existing alternative. (2) The bronze-fly "
+            "lead, while a genuine and independently-verified textual find "
+            "(and Gervais/Gervase of Tilbury is now correctly identified, "
+            "closing a citation gap Thwaites's edition left open), is "
+            "WEAKER as a Liahona parallel than the doves: 'marvelous brass "
+            "object' is an even broader medieval category (also attributed "
+            "to Albertus Magnus, Bacon, Pope Sylvester II), and "
+            "functionally the fly is a protective talisman, not a guidance "
+            "device -- it doesn't share the Liahona's core faith-guided-"
+            "direction function the way the compass/spirits passage does. "
+            "It does add a second, textually-anchored data point that "
+            "Lahontan's book recurringly treats marvelous objects with "
+            "rationalist skepticism -- kept as context, not promoted to "
+            "parallel status. The Kircher connection is a resolved, "
+            "thoroughly-searched negative, not an open thread."
+        ),
+    },
 ]
 
 

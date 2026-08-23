@@ -624,6 +624,86 @@ generic-iconography objection is real but narrower than originally framed,
 and what would actually settle it (Book-VI-specific evidence of engagement,
 or a "twoness" element in the propagated archetype) hasn't been checked yet.
 
+### Virgil's Brass Fly, found directly in the Lahontan corpus, and a clean negative on Kircher
+
+A separate, independently-verified lead from the user: Lahontan's own text
+(the same corpus already flagged as containing the compass/spirits passage)
+contains a genuine, quotable reference to the medieval "Virgil the Magician"
+legend cycle. Confirmed directly via grep against
+`texts/lahontan_new_voyages.txt` (~line 28435), in a passage where Lahontan
+is skeptically debunking a list of magic/superstition legends (Cornelius
+Agrippa, Bodin's *Démonomanie*, the *Malleus Maleficarum* authors, etc.):
+
+> "...But what **Gervais fays of Virgil's Brafs Fly** Crowns the whole
+> Work. 'Tis a Miracle to me that the Chancellor of the Emperor Otho fhould
+> have thus expos'd himfelf in advancing a Falfhood accompany'd with many
+> other Lies."
+
+**"Gervais" identified with high confidence: Gervase of Tilbury** (c.
+1150–1228), author of *Otia Imperialia* — confirmed via a primary 17th-c.
+source (Jacques Gaffarel, *Curiositez inoüyes*, 1629), which also reveals
+that "the Chancellor of the Emperor Otho" in Lahontan's text *is* Gervase
+himself (informally so-titled in this specific early-modern debate
+literature, not a separate person, and not his actual documented court
+role of Marshal/judge under Otto IV) — closing a gap Thwaites's own edition
+left unglossed. Gaffarel's text also reveals Gervase attributed Virgil a
+*second* brass talisman beyond the fly: a golden leech. Lahontan's
+mocking tone reads as a direct, ironic inversion of Gaffarel's own
+pro-magic argument (Gaffarel's 1629 book was written specifically to
+rebut Gabriel Naudé's 1625 skeptical *Apologie pour les grands hommes
+soupçonnez de magie*) — Lahontan (or an intermediate source) appears to be
+drawing on this specific 17th-century controversy, which also explains why
+his list of "credulous authorities" matches Naudé's survey almost exactly.
+
+**The medieval "Virgil the Magician" legend cycle the user described is
+real and essentially accurate**: earliest textual source for the bronze fly
+is John of Salisbury's *Policraticus* (1159); Conrad of Querfurt (c. 1196)
+elaborates with a bottled city, a bronze horse, and a magic gate alongside
+the fly; Gervase of Tilbury (c. 1210–14) adds the golden leech. Virgil does
+have his own, separate brazen-head/oracle tradition (via Gautier de Metz's
+*Image du Monde*, c. 1245), distinct from the Roger Bacon and Pope
+Sylvester II versions, as the user correctly distinguished — though the
+detail that the head was specifically *brass* appears to be a slightly
+later addition (1319, not the 1245 original). The exact "take care of your
+head"/sunstroke-death narrative wording was **not independently
+re-verified this session** — flagged honestly as plausible-but-unconfirmed
+rather than freshly sourced; Comparetti's *Vergil in the Middle Ages*
+(1872, the standard scholarly reference, free on archive.org) would be the
+place to confirm it directly if needed.
+
+**The key question — did Kircher himself write about Virgil's magic-object
+legends — is a clean, thoroughly-searched negative.** No evidence was found
+connecting Kircher to the Virgil-magician tradition anywhere in his
+published works, despite real thematic proximity (Kircher visited Naples
+and Vesuvius in 1638, wrote extensively on Neapolitan antiquities in
+*Mundus Subterraneus*). One claim surfaced during search ("Kircher recounts
+it in *Oedipus Aegyptiacus*") was explicitly flagged as unconfirmed and
+likely an unreliable inference, not a sourced fact, and is **not** treated
+as established here. What Kircher did genuinely engage with: the broader
+talking/oracular-brass-head genre generally, in *Phonurgia Nova* (1673) —
+but attached to Albertus Magnus and Egyptian statues, a different legend
+entirely, not Virgil.
+
+**Calibrated verdict**: identifying Gervais is a clean win — a real
+citation gap closed. But as a Liahona parallel specifically, the bronze fly
+is weaker than it first looks, on two independent grounds: (1) "a marvelous
+brass/bronze object" is an even broader medieval category than the doves'
+Venus iconography (brazen heads alone are attributed to Virgil, Albertus
+Magnus, Bacon, *and* Pope Sylvester II — plus classical automata like Talos
+and the Dove of Archytas), so it isn't distinctive on category grounds; (2)
+functionally, the fly is a protective/apotropaic pest-talisman, not a
+guidance/navigation device — it doesn't share the Liahona's defining
+faith-guided-direction function the way the compass/spirits passage already
+in this log does. What *is* worth keeping: this is a second, independently
+confirmed instance — in the same already-flagged Lahontan text, in the same
+rationalist-skeptic authorial voice — of "an object that looks
+supernatural, treated dismissively by the narrator." That's a real,
+textually-anchored pattern in Lahontan's book worth noting as context, but
+it should not be promoted to Liahona-parallel status the way the
+compass/spirits passage has been. The Kircher connection specifically
+remains a resolved negative, not an open thread — this closes that
+particular line of inquiry rather than leaving it hanging.
+
 ---
 
 ## Lars Nielsen / "Kircherism" summary (background research, 2026-08-23)
