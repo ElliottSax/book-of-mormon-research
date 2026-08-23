@@ -7,6 +7,12 @@ record that survives across sessions. Every finding below states its
 baseline/null comparison and an explicit verdict — a raw similarity number
 alone is not a finding in this project.
 
+See **[CONJUNCTION_AUDIT.md](CONJUNCTION_AUDIT.md)** for a structured
+accounting of every proposed causal chain (Lahontan, Kircher, Aeneid) —
+separating independent evidence from compounding required links, since
+piling up "supporting detail" for a specific chain makes it weaker, not
+stronger, unless each detail actually stands on its own.
+
 ---
 
 ## 2026-08-23 — Toolkit rebuild, corpus fixes, and the Lahontan/Liahona correction
