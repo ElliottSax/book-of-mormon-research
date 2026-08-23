@@ -791,6 +791,107 @@ proving the Liahona's second spindle came from either source. The parallel
 stays where the exchange above left it: real, not dismissed, resting on
 generic conventions rather than anything traceably specific to Virgil.
 
+### Structural check: does the Liahona actually occupy "the same place in the storyline" as the doves? No — checked directly, and the two are structurally opposite
+
+User argued the doves/Golden-Bough episode and the Liahona "fit in the same
+place in the two storylines." Checked directly against both corpus texts
+rather than assessed impressionistically:
+
+- **Aeneid Books I–III** (the actual sea voyage from Troy to Italy — the
+  structural analog to Lehi's wilderness-and-ocean journey) were searched
+  for any guiding instrument. What's actually there: oracles (Delphi,
+  Apollo at Delos), a prophecy from Helenus, and a dream-vision correcting
+  a misread oracle — no physical instrument, no birds, nothing resembling
+  the doves at all. **The doves/Golden Bough scene is in Book VI**, which
+  occurs *after* Aeneas has already completed the entire voyage and
+  arrived in Italy, as a discrete, one-time errand (finding the bough to
+  gain underworld entry, to consult his father's spirit about Rome's
+  future) — unconnected to how he got there in the first place.
+- **1 Nephi's actual sequence** (verified via `segmenter.py`): the Liahona
+  is found in the wilderness at 1 Nephi 16:10, well *before* ship-building
+  begins (17:8) or the ocean voyage starts (18:8). It guides the wilderness
+  travel first, and is then explicitly used to steer the ship itself during
+  the crossing — 1 Nephi 18:12-13: when Nephi is bound, "the compass...
+  did cease to work... they knew not whither they should steer the ship,"
+  triggering the storm that only ends when he's released. Its active role
+  concludes at arrival (18:23).
+
+**These are structurally opposite, not just differently timed**: the
+Liahona *is* the outbound journey's navigation, land and sea, start to
+finish; the doves' guidance only exists *because* the outbound journey is
+already over — a separate task with no bearing on how Aeneas reached his
+destination. There isn't a framing of "same place in the storyline" that
+survives checking the actual texts.
+
+**Also checked while verifying this**: the doves are never individually
+named anywhere in Virgil's text (just "two doves... his mother's birds"),
+so there's no name to compare against "Liahona" on that front — likely a
+dead end, though a later elaborated tradition giving them names hasn't been
+ruled out. And Lahontan's brass-fly reference remains, on a full re-check,
+his *only* mention of Virgil anywhere in the corpus text — no reference to
+the Aeneid or Aeneas at all.
+
+### Load-bearing correction: "near certainty" of Book-VI-specific exposure doesn't survive the available curricular record
+
+User argued Dartmouth's intensively classical curriculum makes Book-VI
+exposure "near certain" for Spalding. Checked directly, and the one
+comparable period record found argues the other way:
+
+- No Dartmouth-specific 1780s curricular record could be located
+  specifying which books of the Aeneid were assigned.
+- **King's College (Columbia)'s documented 1785 admission requirement** —
+  essentially contemporaneous with Spalding's Dartmouth years — specified
+  applicants translate "Caesar's Commentaries... the four orations of
+  Cicero vs. Catiline, **the first four Books of Vergil's Aeneid**, and the
+  Gospels from the Greek." Books 1–4, explicitly not extending to Book VI.
+- Harvard's and Yale's 1780s standards were vaguer still ("Tully, Virgil,
+  or such like"), with no book-level specificity.
+- The "first six books" standard (which would include Book VI) is only
+  documented from the **mid-19th century** (e.g., University of
+  Pennsylvania, 1854) — roughly 70 years after Spalding's Dartmouth years,
+  reflecting a later standardization of American classical pedagogy.
+  Cotton Mather's recollection of 17th-c. Boston Latin School study
+  likewise centers on Book IV (Dido), not Book VI.
+
+**This is worth stating plainly: the evidence available does not support
+"near certainty," and the one specific comparable period record we have
+points the other way.** The honest position is "plausible general exposure
+to the Aeneid, no basis for specifying Book VI over other books" — and
+separately, any exposure via Spalding only matters conditional on the
+Spalding-Rigdon transmission chain itself holding, which is the same
+authorship theory Ostler's review and mainstream scholarship (both
+already covered in this log) treat as unsupported. "Near certainty" was
+doing work across two uncertain links, not one, and neither survives
+scrutiny as stated.
+
+### Was Lahontan a known name in early-1800s American print culture, and do critics mock him in Liahona-adjacent terms?
+
+Two more checks, mixed results:
+
+- **Was "Lahontan" a recognized reference point by 1800–1830?** Genuinely
+  unresolved, not a negative — a modern scholarly source states his work
+  was "copiously copied and commented on" through the 1740s but "all but
+  forgotten" afterward, not rediscovered until the 1970s, consistent with
+  Carver having eclipsed him well before Smith's era. But period American
+  reference works (Jedidiah Morse's *American Universal Geography*, early
+  Britannica editions) that could confirm or rule out a "Lahontan" entry
+  weren't accessible to check directly — flagged as an open item requiring
+  a HathiTrust/archive.org full-text pass, not a resolved question either
+  way.
+- **His reputation as an unreliable/exaggerating writer**: well-corroborated
+  in outline (his invented "Long River" nations were exposed by a 1728
+  French expedition finding no trace of them; modern scholarship — Percy
+  Adams's *Travelers and Travel Liars, 1660-1800* — groups him with the
+  era's notorious fabricators) but a specific, quotable *English-language*
+  period (1750s-1820s) critical passage was not recovered.
+- **Do criticisms of Lahontan use mocking language that parallels Liahona
+  themes (instruments, guidance, marvels)?** Clean negative, with one
+  clearly-flagged near-miss: nothing found where a *critic* mocks Lahontan
+  using compass/instrument imagery. The one relevant hit runs the wrong
+  direction — it's Lahontan's *own* compass/spirits passage (already fully
+  covered in this log), not criticism *of* him. Reported as a genuine
+  negative, not stretched into a positive.
+
 ---
 
 ## Lars Nielsen / "Kircherism" summary (background research, 2026-08-23)
