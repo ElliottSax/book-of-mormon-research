@@ -890,7 +890,53 @@ Two more checks, mixed results:
   using compass/instrument imagery. The one relevant hit runs the wrong
   direction — it's Lahontan's *own* compass/spirits passage (already fully
   covered in this log), not criticism *of* him. Reported as a genuine
-  negative, not stretched into a positive.
+  negative, not stretched into a positive. (Confirmed this was a keyword
+  collision, not a hidden finding: the search terms — compass, spirits,
+  mockery — matched a modern blog quoting the same already-known Lahontan
+  passage, not new period criticism of Lahontan himself.)
+
+### Where the Aeneid source traces to, and a closing verdict
+
+Traced the twin-doves claim to its origin: it's in the user's own prior
+dossier (`research-notes/liahona_dossier_extracted.txt`), not new to this
+session. The dossier's own framing is more modest than "near certainty" —
+it says Dartmouth's curriculum "would have exposed students to standard
+classical texts including Virgil's Aeneid," a general plausibility claim,
+not a citation to a Book-VI-specific record — so it doesn't actually
+conflict with this session's finding (no Dartmouth record specifies
+particular books; the one comparable period document, Columbia 1785,
+specifies only the first four). The dossier is also already self-critical
+about the related Golden Bough/Iron Rod comparison, flagging it "[ACKNOWLEDGE
+WEAKNESS]... functions inverted... creative transformation, not direct
+borrowing."
+
+The dossier also proposes a broader chain — Apollonius's *Argonautica* (the
+Greek epic Virgil drew on) as an earlier link, citing a "dove-navigator
+motif" there. Checked: in the *Argonautica*'s Symplegades episode, the
+Argonauts release **a single dove** (not two) to test whether the Clashing
+Rocks can be safely passed. So twoness enters the proposed chain only at
+the Virgil link — it isn't a feature of the earlier tradition Virgil himself
+was drawing on, which weakens the case that "twoness" is a recurring,
+transmissible feature of this specific motif-family, adding to the earlier
+finding that twoness didn't propagate forward from Virgil either.
+
+Walked through both timelines directly, side by side, at the user's
+request: Aeneid Book VI's doves scene is the last major set-piece before
+the poem shifts from journey to war, occurring *after* Aeneas has already
+reached Italy, for a task unconnected to how he got there. The Liahona is
+introduced *before* the hardest leg of the journey and is the mechanism
+that accomplishes it, ending exactly at arrival. Opposite roles relative to
+journey-completion, not just different timing. **User concurred this
+weakens the case** ("I see, less compelling then") after the walkthrough.
+This closes out the storyline-placement question as resolved-against, on
+the record, following direct engagement with the counter-evidence rather
+than a dismissal — consistent with how this whole exchange proceeded: real
+pushback taken seriously, two points conceded earlier (novelty-as-neutral;
+late-tradition circularity), the harder points tested directly against
+primary texts and curricular records, most not surviving that test. The
+underlying twin-spindles *puzzle* (why does the text mention an unexplained
+second spindle at all) remains genuinely open — what's now resolved is
+that the Aeneid specifically isn't the strongest available answer to it.
 
 ---
 
