@@ -704,6 +704,93 @@ compass/spirits passage has been. The Kircher connection specifically
 remains a resolved negative, not an open thread — this closes that
 particular line of inquiry rather than leaving it hanging.
 
+### Follow-up: the golden leech, "twoness" after Virgil, Carver's own spirit material, and a structural note on the compass/fly passages
+
+Four more direct questions, chasing down loose ends from the exchange above.
+
+**A structural note found first, directly in our own corpus**: the
+compass/spirits passage and the Virgil's-brass-fly passage aren't just in
+the same book — they're in the **same continuous essay** (confirmed by line
+number: ~28319 and ~28435 in `texts/lahontan_new_voyages.txt`, ~116 lines
+apart). Lahontan is running one unbroken rationalist survey of credulity
+across cultures — natives with compasses, Laplanders, Tartars, a Portuguese
+horse burned as a witch, African mathematicians called wizards, American
+physicians called magicians — then pivots into a European magician-legend
+catalog (Agrippa, Michael Scot, Pythagoras, Virgil's fly via Gervais) as
+further illustrations of the *same* point: superstition is universal, not
+uniquely "savage." This is worth knowing precisely because it **tempers**
+rather than strengthens any claim that the two passages are specially
+connected — they're two items in one long list making a single rhetorical
+point, not a deliberate pairing. (Also checked: Lahontan's separate "Way of
+Worship" chapter lists more objects natives attribute to good spirits — "a
+Solar Quadrant, an Alarm Watch" alongside the compass — and "the
+Michibichi," which turned out to just be an animal, a lynx-like wildcat,
+not a guiding object.)
+
+**The golden leech**: resolved. Same logic as the fly, not a guide device —
+Virgil allegedly freed Rome's wells of biting leeches by casting a golden
+leech and placing it as a talisman ("Il délivre les eaux de Rome du fléau
+des sangsues, en plaçant dans un de ses puits une sangsue d'or dont il a
+fait un talisman" — *Dictionnaire infernal*, 6th ed., 1863). A pest-repelling
+talisman, structurally identical to the fly, unrelated in function to
+anything guidance-related. Closes off any possibility it was a second,
+overlooked guide-parallel.
+
+**"Twoness" after Virgil — this is the substantive finding, and it cuts
+both ways.** No evidence was found that the doves' *twoness specifically*
+propagated forward as an adopted convention in later, unrelated stories.
+What *did* recur as a live literary/artistic touchstone is the golden bough
+itself (an object, not a pair) — Turner's 1834 painting, later feeding
+Frazer's *The Golden Bough* and from there Yeats and Eliot. Where the doves
+themselves reappear in pre-1830 art (a 17th-c. Bloemaert/Romanelli
+engraving; a 1688 German illustrated children's Aeneid), it's as direct
+illustration of Virgil's own scene, not an independently borrowed
+convention exported into new stories with new characters. **This is the
+load-bearing distinction the prior assessment flagged, and the search
+result lands on the "specific, not archetypal" side of it** — the one
+detail that would need to have traveled (twoness) is exactly the detail
+that didn't.
+
+At the same time, a genuinely relevant **independent** "twoness" guide/
+protector tradition turned up: **Castor and Pollux (the Dioscuri)**, twin
+stars/lights (St. Elmo's fire) ancient and early-modern sailors read as
+divine guardians during storms — attested from antiquity, and, critically,
+**cited directly in the New Testament** (Acts 28:11, Paul's ship "whose
+sign was Castor and Pollux"). This makes it available to Joseph Smith's
+cultural environment through the Bible itself, with no classical-literature
+detour required at all — a stronger availability case than Virgil's Latin
+epic, by the same logic that made the biblical Urim and Thummim a stronger
+alternative than the later LDS tradition earlier in this exchange. It's
+only a partial functional match, though (a protective omen/beacon read
+into a natural phenomenon, not an active path-guide the way the doves or
+the Liahona are) — so it doesn't resolve the question, it just adds a
+second, more directly available candidate to weigh alongside Urim and
+Thummim and period dual-pointer compasses.
+
+**Carver's own text** (which isn't in this project's corpus and had to be
+checked externally): a clean negative on the compass/spirit-guide theme
+specifically, with the normal caveat that a full line-by-line search of an
+18th-century book via web tools isn't exhaustive. The one substantively
+relevant passage found — the "Chief Priest of the Killistinoes" shaking-tent
+episode, where a bound priest consults "the Great Spirit" and correctly
+predicts a canoe's arrival time — is thematically adjacent (spirit
+communication for a practical purpose) but structurally distinct: a
+timing-prophecy via ritual, with no object, compass, or guiding instrument
+involved at all.
+
+**Net effect**: doesn't overturn "unresolved," and on balance modestly
+reinforces the existing skeptical calibration rather than undercutting it.
+The specific thing that would have strengthened the Aeneid case — evidence
+that "twoness" became a transmitted feature of guide-scenes generally, so
+that a later author could pick it up without needing direct exposure to
+Book VI specifically — didn't materialize. What did turn up (Dioscuri) is
+a real, independently-arising, more-available "twoness" tradition operating
+in similar territory, which mildly undercuts the idea that duality-in-
+divine-guidance needs a Virgilian source to explain, without in any way
+proving the Liahona's second spindle came from either source. The parallel
+stays where the exchange above left it: real, not dismissed, resting on
+generic conventions rather than anything traceably specific to Virgil.
+
 ---
 
 ## Lars Nielsen / "Kircherism" summary (background research, 2026-08-23)
