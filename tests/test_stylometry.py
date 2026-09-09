@@ -45,8 +45,12 @@ BOM_SPICE = ("And it came to pass that behold, the Lord said unto Nephi, "
 def test_emodern_phrase_counts_detect_spanning_markers():
     # Regression: multi-word phrases ("and it came to pass") must register,
     # not silently vanish because they are not single tokens.
+    # BOM_SPICE contains exactly one "and it came to pass" -- phrase_hits must
+    # be 1, not 2: counting it twice (once for "and it came to pass", once for
+    # its own substring "it came to pass") was the double-counting bug fixed
+    # in markered_density()'s non-overlapping _PHRASE_PATTERN scan.
     md = markered_density(BOM_SPICE)
-    assert md["phrase_hits"] >= 2, f"expected >=1 'and it came to pass' hit, got {md}"
+    assert md["phrase_hits"] == 1, f"expected exactly 1 'and it came to pass' hit, got {md}"
     assert md["single_hits"] >= 4, f"expected behold/yea/verily/thou hits, got {md}"
     assert md["density"] > 0
 

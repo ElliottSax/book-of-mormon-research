@@ -15,13 +15,13 @@
         "hapax_ratio": 0.006503150236398771,
         "avg_word_len": 4.045515062777589,
         "function_word_ratio": 0.46350932490940666,
-        "emodern_density": 0.04909686234358019,
+        "emodern_density": 0.045172607794694744,
         "liahona_terms": {
-          "pointers": 1,
-          "ball": 10,
           "compass": 7,
+          "director": 3,
+          "pointers": 1,
           "liahona": 1,
-          "director": 3
+          "ball": 10
         }
       },
       "spalding_manuscript": {
@@ -34,11 +34,11 @@
         "function_word_ratio": 0.4155389531059111,
         "emodern_density": 0.0023963913166055823,
         "liahona_terms": {
-          "pointers": 0,
-          "ball": 0,
           "compass": 0,
+          "director": 0,
+          "pointers": 0,
           "liahona": 0,
-          "director": 0
+          "ball": 0
         }
       }
     },
@@ -562,13 +562,13 @@
         "hapax_ratio": 0.006503150236398771,
         "avg_word_len": 4.045515062777589,
         "function_word_ratio": 0.46350932490940666,
-        "emodern_density": 0.04909686234358019,
+        "emodern_density": 0.045172607794694744,
         "liahona_terms": {
-          "pointers": 1,
-          "ball": 10,
           "compass": 7,
+          "director": 3,
+          "pointers": 1,
           "liahona": 1,
-          "director": 3
+          "ball": 10
         }
       },
       "lahontan_new_voyages": {
@@ -581,11 +581,11 @@
         "function_word_ratio": 0.37275080427467366,
         "emodern_density": 0.0014199608031653292,
         "liahona_terms": {
-          "pointers": 0,
-          "ball": 26,
           "compass": 26,
+          "director": 0,
+          "pointers": 0,
           "liahona": 0,
-          "director": 0
+          "ball": 26
         }
       }
     },
@@ -1109,13 +1109,13 @@
         "hapax_ratio": 0.006503150236398771,
         "avg_word_len": 4.045515062777589,
         "function_word_ratio": 0.46350932490940666,
-        "emodern_density": 0.04909686234358019,
+        "emodern_density": 0.045172607794694744,
         "liahona_terms": {
-          "pointers": 1,
-          "ball": 10,
           "compass": 7,
+          "director": 3,
+          "pointers": 1,
           "liahona": 1,
-          "director": 3
+          "ball": 10
         }
       },
       "aeneid": {
@@ -1128,11 +1128,11 @@
         "function_word_ratio": 0.35294571054186685,
         "emodern_density": 0.005292772539246165,
         "liahona_terms": {
-          "pointers": 0,
-          "ball": 0,
           "compass": 14,
+          "director": 0,
+          "pointers": 0,
           "liahona": 0,
-          "director": 0
+          "ball": 0
         }
       }
     },
@@ -1877,7 +1877,7 @@
     "jaccard_similarity": 4.5207226698096455e-05,
     "top_overlaps": [
       [
-        "on the other side of the",
+        "the other side of the river",
         6.988999315078067e-06
       ],
       [
@@ -1885,7 +1885,7 @@
         6.988999315078067e-06
       ],
       [
-        "the other side of the river",
+        "on the other side of the",
         6.988999315078067e-06
       ],
       [
@@ -1893,23 +1893,7 @@
         3.4944996575390336e-06
       ],
       [
-        "great was the joy of the",
-        3.4944996575390336e-06
-      ],
-      [
-        "was covered with the bodies of",
-        3.4944996575390336e-06
-      ],
-      [
-        "church of jesus christ of latter",
-        3.4944996575390336e-06
-      ],
-      [
-        "of jesus christ of latter day",
-        3.4944996575390336e-06
-      ],
-      [
-        "who was the eldest son of",
+        "in the cause of their country",
         3.4944996575390336e-06
       ],
       [
@@ -1917,11 +1901,23 @@
         3.4944996575390336e-06
       ],
       [
-        "of the book of mormon this",
+        "be for the benefit of the",
         3.4944996575390336e-06
       ],
       [
-        "be for the benefit of the",
+        "church of jesus christ of latter",
+        3.4944996575390336e-06
+      ],
+      [
+        "great was the joy of the",
+        3.4944996575390336e-06
+      ],
+      [
+        "who was the eldest son of",
+        3.4944996575390336e-06
+      ],
+      [
+        "of the book of mormon this",
         3.4944996575390336e-06
       ],
       [
@@ -1929,7 +1925,11 @@
         3.4944996575390336e-06
       ],
       [
-        "in the cause of their country",
+        "of jesus christ of latter day",
+        3.4944996575390336e-06
+      ],
+      [
+        "was covered with the bodies of",
         3.4944996575390336e-06
       ]
     ]
@@ -1951,23 +1951,7 @@
         7.395765924008505e-06
       ],
       [
-        "out of the hands of the",
-        3.6978829620042525e-06
-      ],
-      [
         "people upon the face of the",
-        3.6978829620042525e-06
-      ],
-      [
-        "all the inhabitants of the earth",
-        3.6978829620042525e-06
-      ],
-      [
-        "of their gold and their silver",
-        3.6978829620042525e-06
-      ],
-      [
-        "good for nothing but to be",
         3.6978829620042525e-06
       ],
       [
@@ -1983,7 +1967,7 @@
         3.6978829620042525e-06
       ],
       [
-        "fallen into the hands of the",
+        "of their gold and their silver",
         3.6978829620042525e-06
       ],
       [
@@ -1991,23 +1975,23 @@
         3.6978829620042525e-06
       ],
       [
-        "i do not believe that there",
-        3.4944996575390336e-06
+        "fallen into the hands of the",
+        3.6978829620042525e-06
       ],
       [
-        "hand and the other on the",
-        3.4944996575390336e-06
+        "out of the hands of the",
+        3.6978829620042525e-06
       ],
       [
-        "fall into the hands of their",
-        3.4944996575390336e-06
+        "all the inhabitants of the earth",
+        3.6978829620042525e-06
       ],
       [
-        "of their country and of their",
-        3.4944996575390336e-06
+        "good for nothing but to be",
+        3.6978829620042525e-06
       ],
       [
-        "the remainder of his days in",
+        "and if it had not been",
         3.4944996575390336e-06
       ],
       [
@@ -2015,7 +1999,23 @@
         3.4944996575390336e-06
       ],
       [
-        "it had not been for the",
+        "are brought up in the way",
+        3.4944996575390336e-06
+      ],
+      [
+        "you in the name of the",
+        3.4944996575390336e-06
+      ],
+      [
+        "the remainder of his days in",
+        3.4944996575390336e-06
+      ],
+      [
+        "give an account of all the",
+        3.4944996575390336e-06
+      ],
+      [
+        "fall into the hands of their",
         3.4944996575390336e-06
       ],
       [
@@ -2049,11 +2049,11 @@
         },
         "baseline": {
           "n": 2000,
-          "mean_composite": 0.11982755060115896,
-          "std_composite": 0.0662592947357298,
-          "max_composite": 0.48752136752136754
+          "mean_composite": 0.11929235071607673,
+          "std_composite": 0.06509652771321059,
+          "max_composite": 0.47539682539682543
         },
-        "z_score": 13.283758194368689,
+        "z_score": 13.529256939232933,
         "distinguishable_from_chance": true,
         "z_threshold": 2.0
       }
@@ -2082,11 +2082,11 @@
         },
         "baseline": {
           "n": 2000,
-          "mean_composite": 0.11232853798251399,
-          "std_composite": 0.058280783156941816,
-          "max_composite": 0.6599999999999999
+          "mean_composite": 0.11089390761901212,
+          "std_composite": 0.05972324029039292,
+          "max_composite": 0.7733333333333334
         },
-        "z_score": 15.230946015723806,
+        "z_score": 14.88710404957732,
         "distinguishable_from_chance": true,
         "z_threshold": 2.0
       }
@@ -2115,11 +2115,44 @@
         },
         "baseline": {
           "n": 2000,
-          "mean_composite": 0.13730803436524738,
-          "std_composite": 0.055677263021660116,
-          "max_composite": 0.9495238095238094
+          "mean_composite": 0.13649017939056302,
+          "std_composite": 0.05234758663085966,
+          "max_composite": 0.42813852813852815
         },
-        "z_score": 3.576334867356182,
+        "z_score": 3.819438581723305,
+        "distinguishable_from_chance": true,
+        "z_threshold": 2.0
+      }
+    },
+    {
+      "hypothesis_id": "virgil_brass_fly_aeneid_liahona",
+      "claim": "The user proposed Virgil's Aeneid Book VI 'twin doves' episode (Venus's birds guiding Aeneas to the Golden Bough) as a candidate explanation for the Liahona's unexplained second spindle (1 Nephi 16:10 describes 'two spindles' but only ever shows one functioning). Separately, confirmed a real reference to the medieval 'Virgil the Magician' legend (Virgil's brass fly, a talisman said to repel flies from Naples) directly in Lahontan's own text (~line 28435 of texts/lahontan_new_voyages.txt), attributed by Lahontan to 'Gervais' -- identified as Gervase of Tilbury, author of Otia Imperialia (c. 1210-14).",
+      "evaluation": {
+        "name_a": "N/A",
+        "name_b": "N/A",
+        "direct": {
+          "a": "N/A",
+          "b": "N/A",
+          "soundex_a": "N000",
+          "soundex_b": "N000",
+          "soundex_match": true,
+          "nysiis_a": "N",
+          "nysiis_b": "N",
+          "nysiis_match": true,
+          "metaphone_a": "N",
+          "metaphone_b": "N",
+          "metaphone_match": true,
+          "sequence_ratio": 1.0,
+          "jaro_winkler": 1.0,
+          "composite": 1.0
+        },
+        "baseline": {
+          "n": 2000,
+          "mean_composite": 0.09370844438404732,
+          "std_composite": 0.07783650221566381,
+          "max_composite": 0.9033333333333333
+        },
+        "z_score": 11.643528804838441,
         "distinguishable_from_chance": true,
         "z_threshold": 2.0
       }

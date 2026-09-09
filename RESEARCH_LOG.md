@@ -1240,3 +1240,120 @@ A thorough pass (1793, 1805, 1812, and an 1820 classroom abridgment, all verifie
 **The "Alma son of Nemed" claim — resolved, and both sides turn out to be right on narrower terms.** Read an actual English translation of "The Conquest of Nemed" directly: there genuinely is an "Alma One-tooth son of Nemed" in the primary text, given an active role (twice sent as an emissary to a Fomorian chief) — MormonThink wasn't fabricating this. But he's not one of the **four principal chieftains** (confirmed via Macalister's own scholarly index: Starn, Iarbonel, Annind, Fergus Redside, no Alma) — he belongs to a separate, longer, explicitly open-ended list of additional named sons introduced later in the same narrative ("There were other princes and nobles in that assembly besides... Artur the Great son of Nemed, and Alma One-tooth son of Nemed, etc."). MormonThink's phrasing ("one of Nemed's four sons") conflated the two lists; the underlying name is real. Given this project's already-established finding that the Fenian-Cycle "Lia" material wasn't accessible in English before 1830 (see above), and that this "Conquest of Nemed" text's own translation/accessibility history wasn't checked in this pass, this Alma/Nemed resemblance should be treated as a confirmed textual curiosity, not yet an evaluated parallel — accessibility and functional significance remain open if anyone wants to pursue it.
 
 ---
+
+## 2026-08-27 — Phrase-marker double-counting bug fixed, baseline table corrected
+
+`stylometry.markered_density()` summed independent `str.count()` calls
+across `EMODERN_PHRASES`, but `"and it came to pass"` contains
+`"it came to pass"` as a literal substring — every occurrence of the
+longer phrase was counted under **both** keys. Confirmed against the
+1830 text: 1109 "and it came to pass" + 1338 "it came to pass" summed to
+2447 from only 1338 real textual events (a ~46% inflation of this exact
+density metric), the same class of bug already documented and fixed for
+`liahona_term_counts()`'s "compass"/"compassion" substring collision
+above, just not caught in this function at the time.
+
+**Fixed**: `_PHRASE_PATTERN`, a single combined regex (all phrases
+alternated, longest first) scanned once via non-overlapping `findall` —
+each span of text can now match at most one phrase, so a nested
+occurrence can't register twice. `tests/test_stylometry.py`'s
+`test_emodern_phrase_counts_detect_spanning_markers` asserted
+`phrase_hits >= 2` for a fixture with exactly one "and it came to pass";
+that assertion was itself pinned to the bug's own side effect, not the
+test's stated intent ("must register, not silently vanish") — corrected
+to `== 1`. Regenerated `reports/authorship_analysis.json` and
+`reports/bom_markers.json` via `bookcli.py report` / `bookcli.py markers`
+(this project's own established procedure for exactly this situation,
+same as the reproducibility fix above) rather than leaving stale,
+now-provably-wrong numbers as the recorded findings.
+
+**Corrected baseline table** (supersedes the one above — regenerated in
+one pass, so all three rows are mutually consistent under the current
+code, unlike the original table which predates several fixes made across
+this same 2026-08-23 session):
+
+| Pair | Cosine similarity | EModern/KJV-dialect density |
+|---|---|---|
+| BoM vs. Spalding manuscript | 0.8204 | BoM 0.0452 vs. Spalding 0.0024 (~19x) |
+| BoM vs. Lahontan (complete text) | 0.8933 | BoM 0.0452 vs. Lahontan 0.0014 (~32x) |
+| BoM vs. Aeneid (Dryden) — **control** | 0.8356 | BoM 0.0452 vs. Aeneid 0.0053 (~8.5x) |
+
+Cosine similarity figures are unaffected (they're computed from
+`word_counts()`/`profile()`'s token-level frequencies, not
+`markered_density()`) — the density fix doesn't change this log's
+existing "cosine alone isn't distinctive against the Aeneid control"
+verdict. The magnitude of BoM-vs-Lahontan's density ratio (~70x in the
+original table, ~32x now) drops substantially, but the qualitative
+conclusion — BoM's EModern/KJV density is much higher than either
+candidate source, and higher than the Aeneid control too — is unchanged.
+
+**Verified**: `python -m pytest tests/ -q` → 34/34 pass. `python -m
+pyflakes stylometry.py tests/test_stylometry.py` clean except one
+pre-existing, unrelated unused import (`random` in the test file, present
+before this change, not touched). `git diff --stat` shows exactly
+`stylometry.py` (+18/-2) and `tests/test_stylometry.py` (+5/-1) changed,
+plus the two regenerated JSON reports.
+
+---
+
+## 2026-09-09 — Dartmouth Social Friends' Library (1813): checked one of the two archival-inquiry leads directly, negative result
+
+Follows up on the "real archival-inquiry letter drafts (to Dartmouth, the
+Library Company of Philadelphia, Monticello) for further primary-source
+verification" item flagged above as not yet independently re-verified by
+this codebase. This closes the Dartmouth half of that gap.
+
+### What was checked
+
+Not the Dartmouth *College* library (already checked, per Ostler's
+Interpreter Foundation review cited above: no Kircher works in the 1775 or
+1825 catalogues) — a different, adjacent institution: the **Social
+Friends**, one of Dartmouth's two rival student literary societies
+(Spalding attended 1782–1785; Social Friends and the United Fraternity
+each ran their own subscription library, later merged into the college
+library in the 1870s). Its complete *Catalogue of books belonging to the
+Library of the Social Friends, September, 1813* (Hanover, N.H.: Charles
+Spear, 1813; 24pp.; Evans/Shaw-Shoemaker 28277) was requested from and
+supplied by the American Antiquarian Society (Brianne Barrett,
+Rights & Reproductions, correspondence 2026-09-07/09) — a full digitized
+scan via Readex's *Early American Imprints, Series II*. AAS's own read
+("skimmed the pages and didn't see Lahontan's book listed, but I could
+have just missed it") was independently re-verified line-by-line against
+the actual scan rather than taken on trust.
+
+### Method and result
+
+No OCR text layer exists on the scan (pre-dates any digital text), so all
+24 pages were rendered to image and read directly, not just the "Voyages
+and Travels" section. **Confirmed absent.** Decisively so in the one
+section that matters: "Voyages and Travels" is short enough to fit
+entirely on a single page, fully alphabetized start to finish (Adam's
+Flower of Travels → Volney's Travels), and the sequence runs Harris'
+Journal → Hawkesworth's Voyages → Johnson's Journey with nothing at all
+between H and J — there is no gap into which an L-author entry could be
+hiding. Every other section (Divinity, History, Biography, British
+Classics, Arts and Sciences, Atlases, Law and Politics, Chemistry and
+Medicine, Poetry and Plays, Languages, Novels and Romances, Pamphlets)
+was also read in full: zero "Lahontan" hits anywhere, and — relevant to
+the broader Liahona-etymology thread — **zero Native American
+vocabulary, grammar, or ethnography titles of any kind** in the entire
+1813 holdings; the collection is almost entirely New England
+Congregationalist divinity, British classics/law, standard travel
+narratives, and popular novels.
+
+### What this does and doesn't establish
+
+This is a real negative for one specific, named, physically-proximate
+library Spalding could plausibly have used as a student — strengthening
+(not refuting) the existing "no corroborating narrative or onomastic
+support" caution around the Lahontan hypothesis generally. It does
+**not** reach the Nielsen-comparison point made above (Lahontan's
+confirmed holdings in Jefferson's library and the Library Company of
+Philadelphia) — those are separate institutions, unaffected by this
+finding. It also does not check the **United Fraternity**'s rival
+library (Social Friends' Dartmouth counterpart, same era, catalogue not
+yet located) — a genuine remaining gap, not yet closed, if anyone wants
+Spalding's full plausible on-campus reading access covered. AAS offered
+paid high-resolution reproduction if a citable primary-source image is
+ever needed; not pursued this session since the digitized research scan
+already settled the factual question.

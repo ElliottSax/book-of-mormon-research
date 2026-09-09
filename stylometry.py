@@ -45,6 +45,10 @@ LIAHONA_TERMS = {"liahona", "director", "compass", "ball", "pointers"}
 # Mormon's own reverent first-person framing). See RESEARCH_LOG.md.
 SPIRIT_INSTRUMENT_TERMS = {"spirit", "spirits", "divine", "supernatural", "machine", "machines", "faith"}
 
+_PHRASE_PATTERN = re.compile(
+    "|".join(re.escape(p) for p in sorted(EMODERN_PHRASES, key=len, reverse=True))
+)
+
 def ocr_tolerant_pattern(word: str) -> str:
     """Build a regex pattern for `word` that also matches the historical
     "long s" OCR misread common in 18th/19th-century scanned texts: a
@@ -71,11 +75,23 @@ def word_counts(text: str) -> Counter:
     return Counter(tokenize(text))
 
 def markered_density(text: str) -> dict:
-    """Count single-token EMODERN markers and multi-word phrases in raw text."""
+    """Count single-token EMODERN markers and multi-word phrases in raw text.
+
+    Phrase counting must be non-overlapping across the whole `EMODERN_PHRASES`
+    set, not per-phrase independent `str.count()` calls: "and it came to pass"
+    contains "it came to pass" as a literal substring, so summing separate
+    counts double-counted every occurrence of the longer phrase (confirmed:
+    1109 "and it came to pass" + 1338 "it came to pass" = 2447 from only 1338
+    real textual events in the 1830 Book of Mormon text, a ~46% inflation of
+    this exact density metric). `_PHRASE_PATTERN` scans the whole set as one
+    alternation (longest phrase first, so it wins ties at a shared start
+    position) via non-overlapping `findall`, so each span of text is counted
+    at most once regardless of how many candidate phrases match it.
+    """
     lower = text.lower()
     singles = Counter(tokenize(text))
     single_hits = sum(singles[w] for w in EMODERN_SINGLE)
-    phrase_hits = sum(lower.count(p) for p in EMODERN_PHRASES)
+    phrase_hits = len(_PHRASE_PATTERN.findall(lower))
     total = len(tokenize(text))
     return {"single_hits": single_hits, "phrase_hits": phrase_hits,
             "total": total, "density": (single_hits + phrase_hits) / total if total else 0.0}
