@@ -1350,10 +1350,36 @@ support" caution around the Lahontan hypothesis generally. It does
 **not** reach the Nielsen-comparison point made above (Lahontan's
 confirmed holdings in Jefferson's library and the Library Company of
 Philadelphia) — those are separate institutions, unaffected by this
-finding. It also does not check the **United Fraternity**'s rival
-library (Social Friends' Dartmouth counterpart, same era, catalogue not
-yet located) — a genuine remaining gap, not yet closed, if anyone wants
-Spalding's full plausible on-campus reading access covered. AAS offered
-paid high-resolution reproduction if a citable primary-source image is
-ever needed; not pursued this session since the digitized research scan
-already settled the factual question.
+finding. AAS offered paid high-resolution reproduction if a citable
+primary-source image is ever needed; not pursued this session since the
+digitized research scan already settled the factual question.
+
+### United Fraternity gap: closed, but as "no catalogue survives," not "checked negative"
+
+Followed up same-day on the remaining Dartmouth thread flagged above: the
+Social Friends' *rival* student literary society, the United Fraternity
+(f. 1786), also ran its own library. Checked Dartmouth's own Rauner
+Special Collections finding aid for the United Fraternity records
+(collection spanning 1786–1904, archives-manuscripts.dartmouth.edu,
+`repositories/2/resources/820`) directly. Its "Book catalogs" series —
+Rauner's own complete holdings of every surviving UF library catalogue —
+is dated **1830–1877**, with the single earliest item in Box 6259 dated
+**1830-08** (August 1830). Cross-checked externally: the earliest
+UF library catalogue findable anywhere (WorldCat/HathiTrust/Amazon
+reprints) is *A catalogue of the United fraternity's library... July,
+1852* — consistent with Rauner's own earliest holding, not an artifact of
+incomplete search. (A *different* UF document, a members'-roster
+*Catalogue of the members of the United Fraternity... August, 1818*, LOC
+`e14001583`, does exist from this earlier period — but it's a membership
+roll, not a book-holdings list, so it can't answer the Lahontan
+question.)
+
+**So this isn't "checked, Lahontan absent" the way Social Friends 1813
+was** — no United Fraternity book catalogue survives from anywhere near
+Spalding's 1782–1785 attendance, or in fact from before 1830 at all (i.e.
+not even contemporaneous with the Book of Mormon's actual publication,
+let alone predating it). The honest state of this specific thread: **the
+question is unanswerable from surviving records**, not resolved negative
+— a different, weaker kind of gap than a checked-and-absent finding, and
+should be described that way rather than rounded into "both Dartmouth
+society libraries checked, no Lahontan."
