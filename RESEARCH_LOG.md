@@ -1383,3 +1383,22 @@ question is unanswerable from surviving records**, not resolved negative
 — a different, weaker kind of gap than a checked-and-absent finding, and
 should be described that way rather than rounded into "both Dartmouth
 society libraries checked, no Lahontan."
+
+## 2026-09-23 — Dartmouth / Moor's School search for Lahontan (page-image verified)
+
+Screenshots with printed citations: `verification_screenshots/*_2026-09-23.png`.
+
+**Compass passage, exact pages (resolved):** 1703 London (Bonwicke et al.) vol. 2, Letter V "Dated at Erleich, July 4. 1695", begins p. 255, passage p. 260; Thwaites 1905 vol. 2 p. 701 [orig. 260]; French original *Suite du voyage, de l'Amerique* (Amsterdam: Veuve de Boeteman, 1704) p. 191 ("une montre, une boussole, & mille autres machines sont meues par des Esprits"), letter signed "à Erleich. Le 4 Juillet, 1695" p. 201. Drop "Ouellet p. 906".
+
+**Dartmouth / Moor's — every checkable source is negative for Lahontan, Hennepin, Charlevoix:**
+- Occom Circle (all 525 TEI transcriptions, full-text grep). Book traffic = donated religious/instructional chests (Gifford, Erskine, Keen/Thornton, SSPCK); itemized gift 768240 = Religious Philosopher, Watts, Newton on Prophecy.
+- 1824 Social Friends' Library catalogue (Dartmouth exhibit item 3194), read page by page: has Carver's Travels, Mavor 24 vols, Pinkerton 4to 6 vols, Josephus; no Lahontan.
+- 1825 College catalogue (HathiTrust nnc1.cu55873677), full OCR grep incl. possessives: Carver (p.10), Mavor (p.29), Pinkerton "2 copies, 4to 6" (p.33); no Lahontan.
+- Dartmouth's current catalog: all pre-1800 Lahontan copies are digital surrogates (AAS / BL). No physical early copy.
+- Daniel Oliver 1783 gift list (per Dartmouth Alumni Magazine May 1976, relayed by claude.ai; not yet page-verified here): no Lahontan. Diodate Johnson 1773 bequest: no itemized list survives.
+
+**Compilation angle:** London Pinkerton vol. 13 reprints "Travels in Canada; by the Baron Lahontan" (pp. 254–~335; not the Portugal/Denmark letters, so not the compass passage). Dartmouth's 6-vol quarto Pinkerton is most likely the Philadelphia 1810–12 edition, which covers London vols. 1–6 only and has no Lahontan (inference; confirm the edition at Rauner).
+
+**The decisive remaining document:** Bezaleel Woodward's four-page MS "[Catalogue of Books in the Dartmouth College Library]", January 1775, Rauner ms [vault] (Krieger, *The Woodward Succession*, 2002, n. 11). Also: 1809–10 printed list (updates the 1775 MS); United Fraternity Records 1788–1874 (book lists + circulation); College Library Circulation Records 1788– ; Moor's Indian Charity School records 1760–1915 (merchant accounts). All physical-only; need a Rauner reproduction request (possible fees → Elliott's approval).
+
+**The Late War (Hunt, New York: Longworth, 1816), verified:** ch. XIX vv. 12–13 p. 100 "weapons of war were of curious workmanship,* and they sent forth balls of lead" (*Rifles.); ch. L vv. 23–24 p. 270 torpedoes "made partly of brass and partly of iron … cunningly contrived with curious works, like unto a clock; and as it were a large ball."
