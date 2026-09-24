@@ -35,8 +35,8 @@ Two weeks of intensive research (9+ parallel agent workflows, 43+ researchers) h
 **Steps**:
 1. Open browser → https://research-ebsco-com.ezproxy.hclib.org
 2. Log in with credentials:
-   - Card ID: `21972086319840`
-   - Password: `5284`
+   - Card ID: `[HCLib card — see private memory]`
+   - Password: `[redacted]`
 3. Search EBSCO collections:
    - Database: "Historical Maps" or "America History & Life"
    - Query: `Moll map North America 1720 OR Delisle map Lahontan`
@@ -319,7 +319,7 @@ START
 
 **STEP 1** (Right now, 30-60 minutes): Access HCLib EBSCO and verify Moll/Delisle map labels
 - URL: https://research-ebsco-com.ezproxy.hclib.org
-- Credentials: 21972086319840 / 5284
+- Credentials: [HCLib card — see private memory] / [redacted]
 - Target: Moll and Delisle maps, 1709-1730s editions
 - Action: Transcribe exact legend labels for cardinal-direction seas
 - Outcome: Single most important evidence for/against hypothesis

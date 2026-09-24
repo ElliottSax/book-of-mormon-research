@@ -4,3 +4,9 @@ __pycache__/
 .pytest_cache/
 *.egg-info/
 
+
+# local-only: credentials scratch file, raw third-party map scans (see EXTRACTION_MANIFEST.md), resized scratch images
+*HCLIB_RESEARCH_STEPS.md
+map_images_david_rumsey_2026-09-24/*
+!map_images_david_rumsey_2026-09-24/EXTRACTION_MANIFEST.md
+scratch_resized/

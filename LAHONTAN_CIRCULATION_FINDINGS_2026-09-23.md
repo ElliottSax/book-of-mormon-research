@@ -233,7 +233,7 @@ The 1816 NAR review is the single strongest evidence of active American intellec
 ### IMMEDIATE (Session Priority)
 1. ✅ **1789 LCP catalogue page 92 OCR verification** — DONE (eahontan's account confirmed via archive.org)
 2. ✅ **Reputation timeline comprehensive** — DONE (workflow provided 1703-1970s arc with 4 citations)
-3. ⚠️ **1816 NAR article full text** — BLOCKED by EBSCO authentication; requires manual library portal access (card 21972086319840 + password 5284 at https://research-ebsco-com.ezproxy.hclib.org)
+3. ⚠️ **1816 NAR article full text** — BLOCKED by EBSCO authentication; requires manual library portal access (card [HCLib card — see private memory] + password [redacted] at https://research-ebsco-com.ezproxy.hclib.org)
 
 ### SHORT-TERM (Research Priority)
 1. **Manual ProQuest searches** (cannot automate) — Search ProQuest American Periodicals directly for 1810-1880 Lahontan mentions

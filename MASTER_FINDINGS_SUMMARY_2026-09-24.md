@@ -229,7 +229,7 @@ Helaman 11:20: "...from the sea west to the sea east..."
 
 **How to verify**: 
 - HCLib EBSCO access (https://research-ebsco-com.ezproxy.hclib.org)
-- Credentials: 21972086319840 / 5284
+- Credentials: [HCLib card — see private memory] / [redacted]
 - Search: Moll and Delisle maps, examine legend text for cardinal-direction labels
 
 **Timeline**: 30-60 minutes for Elliott to manually verify
