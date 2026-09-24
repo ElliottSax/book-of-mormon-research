@@ -1405,3 +1405,13 @@ Screenshots with printed citations: `verification_screenshots/*_2026-09-23.png`.
 
 **Late War discoverer (verified on the page):** McGuire, "The Late War Against the Book of Mormon," *Interpreter* 7 (2013): 323–355, at 323–24: the traditional comparison "was apparently introduced by Rick Grunder in his 2008 bibliography *Mormon Parallels*" (Lafayette, NY: Rick Grunder—Books, 2008, CD-ROM); statistical n-gram follow-up by Chris and Duane Johnson (2013). The torpedo-vs-Liahona framing specifically: FAIR attributes the data to the Johnsons' comparison page (wordtreefoundation.github.io/thelatewar); who first framed it is unconfirmed (Runnells, *Letter to a CES Director*, is an unverified candidate — do not cite yet).
 Open: Social Friends library catalogues 1810–1862 at Rauner ("separately cataloged in D.C. History"); Lowell Simpson, *Journal of Library History* 12:3 (1977), not yet read.
+
+## 2026-09-24 — Earlier inquiries found; 1775 and 1813 catalogues read in full
+
+**Gmail history:** Mar 15 inquiry went to rauner.library@dartmouth.edu (invalid address; its Sep 7 follow-up bounced). Sep 6 to askus@dartmouth.edu — no reply. Sep 7 AAS (reproductions@mwa.org) sent the 1813 Social Friends catalogue PDF (Brianne Barrett, Sep 9). Sep 7 NH Historical Society: Oct 1831 Social Friends catalogue — Lahontan not listed (reply Sep 8). **Sep 23: Rauner reference form inquiry pending** (auto-reply from Rauner.Special.Collections.Reference@dartmouth.edu; ~2-week delay).
+
+**1813 Social Friends catalogue** (Hanover: Charles Spear, 1813; EAI II 28277; `sources/social_friends_catalogue_1813_EAI_28277.pdf`), all 24 pp. read: no Lahontan. Voyages & Travels has Carver, Mavor 23, Pinkerton 4to 6; History has Flavius Josephus 8vo 3.
+
+**1775 college library MS catalogue** (DL-11, 5943:2, Rauner; images from exhibit "Dartmouth 250: Curriculum Vitae", item 541; `sources/dc1775/`), all leaves read: no Lahontan, Hennepin, Charlevoix, Carver. Present: **Josephus (folio, 2 sets)**, Universal Traveller, Douglass's Summary of N. America, **Moll's Atlas Minor**. Ends "About 200 other small second & third hand books on Divinity and a great variety of pamphlets."
+
+**Dartmouth coverage now checked with no Lahontan:** 1775 MS, 1813 SF, 1824 SF, 1825 college, 1831 SF (NHHS), Occom Circle. Remaining unseen: 1809–10 printed college catalogue, 1815 Shurtleff MS (Mss 815540), SF catalogues 1810–12/1814–23, early United Fraternity lists, John Smith 1809 inventory. Follow-up to the Sep 23 Rauner inquiry drafted in `drafts/RAUNER_REQUEST_DRAFT_2026-09-24.md` (not sent).
